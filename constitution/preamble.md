@@ -10,7 +10,7 @@ RECOGNISING the inherent dignity and the equal and inalienable rights of all mem
 REAFFIRMING that these rights include the rights of the individual to life, liberty and the pursuit of happiness free from all types of discrimination;
 CONSIDERING that these rights are most effectively maintained and protected in a democratic society where all powers of Government spring from the will of the people;
 EXERCISING our natural and inalienable right to a framework of Government which shall secure for ourselves and posterity the blessings of truth, liberty, fraternity, equality of opportunity, justice, peace, stability and prosperity;
-EVOKING the blessings of Almighty God;
+INVOKING the blessings of Almighty God;
 SOLEMNLY DECLARING our unswaying commitment, during this our Third Republic, to
 maintain Seychelles as an independent State both politically and economically;
 safeguard its sovereignty and territorial integrity;

@@ -25,6 +25,7 @@ and an allegation under subparagraph (1)(b).
 "body" means a body of persons whether corporate or unincorporate;
 "investigation" means an investigation in terms of this Schedule;
 "public authority" means a Ministry, a department, division or agency of the Government or a statutory corporation or a limited liability company which is directly or ultimately under the control of Government or any other body which is carrying out a governmental (function or service or a person or body specified by an Act.
+(5) A limited liability company of which the Government holds not more than forty-nine per centum of its issued share capital shall not for the purposes of subparagraph (4), be treated to be a limited liability company which is under the direct or ultimate control of the Government.
 2. Excluded matters
 The Ombudsman shall not investigate an action referred to in paragraph 1(1)(a)—
 (a) in respect of a subject matter which the President or the relevant Minister certifies may affect the relation or dealing between the Government of Seychelles and any other Government or international organisation, the security of the Republic or the investigation of crime;

@@ -2,17 +2,17 @@
 Ombudsman
 1. Functions of Ombudsman
 (1) Subject to this Schedule, the Ombudsman may—
-(a) investigate an action taken by a public authority or the President, Minister, officer or member of the public authority, being action taken in the exercise of the administrative functions of the public authority in the circumstances specified in subparagraph (2);
+(a) investigate an action taken by a public authority or the President, Vice-President, Minister, officer or member of the public authority, being action taken in the exercise of the administrative functions of the public authority in the circumstances specified in subparagraph (2);
 (b) investigate an allegation of fraud or corruption, in connection with the exercise by a person of a function of a public authority;
 (c) assist an individual complainant in respect of legal proceedings in relation to a contravention of the provisions of the Charter;
 (d) with leave of the Court hearing proceedings relating to a contravention of the provisions of the Charter, become a party to the proceedings;
 (e) initiate proceedings relating to the constitutionality of a law or of the provisions of a law.
 (2) The Ombudsman shall investigate an action under subparagraph (1)(a)—
-(a) where the Ombudsman receives a complaint from a person or body alleging that the complainant has suffered a violation of the complainant's fundamental rights or freedoms under the Charter, or an injustice, in consequence of a fault in the administration of a public authority or has been treated harshly or oppressively by the authority or the President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority;
-(b) where the President or a Minister or member of the National Assembly requests the Ombudsman to investigate the action on the ground that the person or body specified in the request—
-(i) has or may have suffered a violation of the person's or body's fundamental rights or freedoms under the Charter, or an injustice, in consequence of a fault in the administration of a public authority or of a fault of the President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority;
-(ii) has been treated harshly or oppressively by the authority or the President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority,
-or on the ground that the practices or patterns of conduct of a public authority or the President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority appear to result in injustices or harsh, oppressive or unfair administration; or
+(a) where the Ombudsman receives a complaint from a person or body alleging that the complainant has suffered a violation of the complainant's fundamental rights or freedoms under the Charter, or an injustice, in consequence of a fault in the administration of a public authority or has been treated harshly or oppressively by the authority or the President or Vice-President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority;
+(b) where the President or Vice-President or a Minister or member of the National Assembly requests the Ombudsman to investigate the action on the ground that the person or body specified in the request—
+(i) has or may have suffered a violation of the person's or body's fundamental rights or freedoms under the Charter, or an injustice, in consequence of a fault in the administration of a public authority or of a fault of the President or Vice-President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority;
+(ii) has been treated harshly or oppressively by the authority or the President or Vice-President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority,
+or on the ground that the practices or patterns of conduct of a public authority or the President or Vice-President or a Minister, officer or member of the authority in the exercise of the administrative functions of the authority appear to result in injustices or harsh, oppressive or unfair administration; or
 (c) where the Ombudsman considers that it is necessary to investigate the action on the grounds specified in subparagraph (b),
 and an allegation under subparagraph (1)(b).
 (3) The Ombudsman shall not investigate or may discontinue an investigation of a complaint relating to an action referred to in subparagraph (1)(a) or an allegation under subparagraph (1)(b) where it appears to the Ombudsman that—
@@ -28,7 +28,7 @@ and an allegation under subparagraph (1)(b).
 (5) A limited liability company of which the Government holds not more than forty-nine per centum of its issued share capital shall not for the purposes of subparagraph (4), be treated to be a limited liability company which is under the direct or ultimate control of the Government.
 2. Excluded matters
 The Ombudsman shall not investigate an action referred to in paragraph 1(1)(a)—
-(a) in respect of a subject matter which the President or the relevant Minister certifies may affect the relation or dealing between the Government of Seychelles and any other Government or international organisation, the security of the Republic or the investigation of crime;
+(a) in respect of a subject matter which the President or Vice-President or the relevant Minister certifies may affect the relation or dealing between the Government of Seychelles and any other Government or international organisation, the security of the Republic or the investigation of crime;
 (b) concerning the performance of a judicial function or a Justice of Appeal, Judge or person performing a judicial function;
 (c) taken with respect to orders or directions to a disciplinary force or a member of the force; or
 (d) unless the person aggrieved is resident in Seychelles or the action was taken in respect of the person aggrieved while the person was present in Seychelles or in respect of rights or obligations that arose or accrued in Seychelles.
@@ -61,16 +61,16 @@ Subject to this Schedule, the Ombudsman has the same power as a Judge of the Sup
 (c) there was unreasonable delay before the decision or action which was the subject of the investigation was taken;
 (d) there was an omission which needs to be rectified;
 (e) the law or practice on which the action which is the subject of the investigation is based should be reconsidered;
-(f) the practice or pattern of conduct of a public authority or the President, a Minister, officer or member of the public authority which is the subject of the investigation is contrary to law or unreasonable, unjust, harsh, oppressive or discriminatory; or
+(f) the practice or pattern of conduct of a public authority or the President, Vice-President, a Minister, officer or member of the public authority which is the subject of the investigation is contrary to law or unreasonable, unjust, harsh, oppressive or discriminatory; or
 (g) the allegation of fraud or corruption is well founded,
-the Ombudsman shall report the opinion and reasons together with any recommendation or remedy the Ombudsman considers fit to make to the President, Minister, officer, member or chief executive officer of the public authority, as the case may be.
-(2) The Ombudsman shall, where the report is not required to be sent to the President or Minister, send a copy of the report to the President and any relevant Minister.
+the Ombudsman shall report the opinion and reasons together with any recommendation or remedy the Ombudsman considers fit to make to the President, Vice-President, Minister, officer, member or chief executive officer of the public authority, as the case may be.
+(2) The Ombudsman shall, where the report is not required to be sent to the President, Vice-President or Minister, send a copy ofthe report to the President and where relevant to the Vice-President and any relevant Minister.
 (3) The Ombudsman may specify in the report referred to in subparagraph (1) a time limit within which it is reasonable for the report to be acted upon.
 (4) Where a report submitted under subparagraph (1) is not, in opinion of the Ombudsman, adequately acted upon—
 (a) within the time specified in the report; or
 (b) if no time has been specified, within such reasonable time as the Ombudsman is of the opinion is reasonable,
 the Ombudsman may submit the report and recommendation together with such further observations the Ombudsman thinks fit to make to the President and the National Assembly.
-(5) The Ombudsman shall attach to every report submitted to the President and the National Assembly under subparagraph (4) a copy of any comments made thereon by or on behalf of the chief executive officer of the public authority concerned or the President, Minister, officer or member of the public authority, as the case may be.
+(5) The Ombudsman shall attach to every report submitted to the President, Vice-President and the National Assembly under subparagraph (4) a copy of any comments made thereon by or on behalf of the chief executive officer of the public authority concerned or the President, Vice-President, Minister, officer or member of the public authority, as the case may be.
 (6) The Ombudsman shall not later than the thirty-first January in each year make a general report to the National Assembly with a copy to the President on the exercise of the functions of the Ombudsman under this Constitution during the previous year.
 (7) The Ombudsman shall, in every case where a complaint is received by the Ombudsman, inform the complainant of the result of the complaint.
 7. Miscellaneous provisions relating to Ombudsman

@@ -19,15 +19,16 @@ Subject to paragraphs 6 and 7, a person shall not be elected to is office of Pre
 6. Sole Presidential candidate
 Where immediately prior to the day appointed for holding an election to the office of President, there is only one candidate for election and that candidate has, since the day immediately following the day of the closing of nominations, been the sole candidate, no ballot shall be held and that candidate shall be declared by the Electoral Commissioner to be elected to the office of President.
 7. Withdrawal or death of candidate
-(1) Where on the day immediately following the day of closing of nominations for the election of President more than one candidate stand nominated for election and on the day of election only one candidate stands nominated by reason of the withdrawal of nominations of other candidates, the election shall be postponed and a further period of not less than seven days shall be allowed for nomination of other candidates.
+(1) Where on the day immediately following the day of closing of nominations for the election of President more than one candidate stand nominated for election and on the day of election only one candidate stands nominated by reason of the withdrawal of nominations of other candidates or no candidate stands nominated by reason of the withdrawal of nomination of all the candidates, the election shall be postponed and a further period of not less than seven days shall be allowed for nomination of other candidates.
 (2) Where on the day immediately following the day of closing of nominations for the election of President one or more candidates stand nominated for election and one or more of them the before the day of election, the election shall be postponed and a further period of not less than seven days from the date of death of the candidate shall be allowed for nomination of other candidates.
 (3) The election postponed pursuant to subparagraph (1) or (2) shall be held on such date as the Electoral Commissioner may decide but, in any case, not later than thirty days of the event specified in those subparagraphs which occurred last and the candidates nominated pursuant to those subparagraphs shall, notwithstanding their withdrawal, be deemed to be the candidates for that election.
 8. Second or subsequent ballot
 (1) Where in an election to the office of President three or more candidates take part in any ballot and no candidate receives more than fifty percent of the votes cast, then, if the resuit of the ballot is that—
 (a) all the candidates receive the same number of votes;
-(b) two or more candidates receive, equally, the highest number of votes; or
-(c) one candidate receives the highest number of votes and two or more candidates receive, equally, the second highest number of votes,
-only the candidates referred to in subparagraph (a), subparagraph (b) or subparagraph (c), as the case may be, shall take part in the subsequent ballot and the other candidates, if any, shall be eliminated.
+(b) two or more candidates receive, equally, the highest number of votes;
+(c) one candidate receives the highest number of votes and another candidate receives the second highest number of votes;
+(d) one candidate receives the highest number of votes and two or more candidates receive, equally, the second highest number of votes,
+only the candidates referred to in subparagraph (a), subparagraph (b), subparagraph (c) or subparagraph (d), as the case may be, shall take part in the subsequent ballot and the other candidates, if any, shall be eliminated.
 (2) Any subsequent ballots referred to in subparagraph (1) shall be held not less than seven days and not more than fourteen days after the immediately preceding ballot.
 9. Certificate of election
 An instrument which—

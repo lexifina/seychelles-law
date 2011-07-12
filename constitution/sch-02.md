@@ -7,7 +7,7 @@ Principles of intepretation
 "court" means a court of competent jurisdiction established by or under the authority of this Constitution;
 "designated Minister" means the Minister designated under article 75;
 "directly elected member" means a member of the National Assembly such as is referred to in article 78 (a);
-"Electoral Commissioner" means the Electoral Commissioner appointed under article 115;
+"Electoral Commission" or "Commission" means the Electoral Commission appointed under article 115;
 "financial year" means the period of twelve months beginning on the first day of January in any year, or on such other day as may be prescribed by an Act;
 "functions" includes powers and duties;
 "the Gazette" means such publication as may for the time being be appointed by the President to be the publication in which Government notices are published by authority, and includes any statements thereto in which Government notices are published;

@@ -9,8 +9,8 @@ In this Schedule—
 2. Nomination by political parties
 A political party which has nominated one or more candidates in a general election and has polled in respect of the candidates in aggregate 10% or more of the votes cast at the election may nominate a proportionally elected member for each 10% of the votes polled.
 3. Electoral Commission to determine entitlement to nominate members
-For the purposes of this Schedule, the Electoral Commissioner shall determine—
+For the purposes of this Schedule, the Electoral Commission shall determine—
 (a) whether a political party may nominate any proportionately elected member of the National Assembly; and
 (b) if so, the number of proportionately elected members.
 4. Procedure for nomination
-A political party which may nominate a proportionately elected member of the National Assembly shall, within seven days after the general election, signify in writing to the Electoral Commissioner the name of the member and the Electoral Commissioner shall as soon as is practicable after receiving all the names of the proportionately elected members under this Schedule publish the names in the Gazette.
+A political party which may nominate a proportionately elected member of the National Assembly shall, within seven days after the general election, signify in writing to the Electoral Commission the name of the member and the Electoral Commission shall as soon as is practicable after receiving all the names of the proportionately elected members under this Schedule publish the names in the Gazette.

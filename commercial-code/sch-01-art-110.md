@@ -1,0 +1,6 @@
+# Article 110
+1. Any dispute which has arisen or may arise out of a specific legal relationship, and in respect of which it is permissible to resort to arbitration, may be subject to an arbitration agreement. Subject to articles 2044 to 2058 of the Civil Code relating to compromise.
+2. An arbitration agreement may be annulled for fraud or duress.
+3. The parties to an arbitration agreement may agree to forgo arbitration and submit to the jurisdiction of the Court. The submission by both parties to such jurisdiction shall be deemed to amount to the tacit renunciable of the arbitration agreement.
+4. If an agreement containing an arbitration clause is judicially declared to be void, the arbitration clause therein shall also be void. However, an arbitration clause in an international agreement shall not be ipso facto void by reason only of the invalidity of such agreement.
+5. Notwithstanding any rule in this article, when an Act specifically excludes arbitration in any specific agreement or dispute, such exclusion shall have effect. A term in a contract excluding arbitration under paragraph 2 of article 1148 of the Civil Code shall be null. Nothing in this article shall be construed as affecting arbitration as provided by the Civil Code.

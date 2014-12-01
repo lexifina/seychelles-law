@@ -1,0 +1,2 @@
+# Article 480
+[repealed by Commercial Code Act. Fourth Schedule]

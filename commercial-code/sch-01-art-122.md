@@ -1,0 +1,5 @@
+# Article 122
+1. The challenge shall, as soon as the challenger becomes aware of the ground of challenge, be brought to the notice of the arbitrators and, where applicable, of the third person who has, in pursuance of the arbitration agreement, appointed the arbitrator challenged. The arbitrators shall thereupon suspend further proceedings.
+2. If within a period of ten days of the notice of the challenge being given to him, the arbitrator challenged has not resigned, the arbitral tribunal shall so notify the challenger. The challenger shall, on pain ofbeing barred, bring the matter before the Court within a period of ten days from receiving such notification. Otherwise, the proceedings before the arbitrators shall be resumed ipso jure.
+3. If the arbitrator resign or if the challenge is upheld by the Court, the arbitrator shall be replaced in accordance with the rules governing his appointment or nomination.
+However, if he has been named in the arbitration agreement, the agreement shall terminate ipso jure. The parties may derogate from the provisions of this paragraph.

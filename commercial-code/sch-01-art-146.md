@@ -1,0 +1,2 @@
+# Article 146
+On the basis of reciprocity, the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards, 1958, and the arbitral award within the meaning of the said Convention shall be binding. Such Convention shall apply to the recognition and enforcement of arbitral awards made in the territory of a State other than Seychelles and arising out of differences between persons, whether physical or legal. It shall also apply to arbitral awards not considered as domestic awards in Seychelles.

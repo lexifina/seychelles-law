@@ -1,0 +1,3 @@
+# Article 95
+1. Every mercantile agent shall enjoy privilege upon the goods or the proceeds of the sale of goods sent to, deposited with or consigned to him from the mere dispatch, deposit or consignment thereof in respect of all loans, advances or payments made by him, either before the reception of the same, or during the time they remained in his possession. Such privileges shall exist to the extent that the goods are in the possession of the creditor as provided by article 92 of this Code.
+2. In respect of such privilege and any other rights and duties of mercantile agents in general, article 2102 of the Civil Code shall have application.

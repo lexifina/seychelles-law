@@ -1,0 +1,2 @@
+# Article 107
+The provision of this title shall apply to all types of carriage. Subject to the rules established by any international convention to the extent that it is adopted by the parties as the law of the contract under paragraph 7 of article 3 of the Civil code, or by any international conventions applicable to Seychelles or such special domestic legislation as is enacted from time to time.

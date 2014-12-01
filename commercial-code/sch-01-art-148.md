@@ -1,0 +1,2 @@
+# Article 148
+Arbitral awards under the said Convention shall be recognised as binding and shall be enforced in accordance with the rules of procedure in force in Seychelles. The conditions or fees or charges on the recognition or enforcement of arbitral awards to which the said Convention applies shall not be more onerous than those required for the recognition or enforcement of domestic arbitral awards.

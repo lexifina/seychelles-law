@@ -1,0 +1,3 @@
+# Article 92
+1. In respect of any pledges under the aforementioned article 91 of this Code, the privilege upon the pledge shall only exist to the extent that the goods are in the possession of the creditor or delivered to a third person agreed upon by the parties and in respect of the principal, interest, commission fees and costs. Subject to the provisions of the Security on Movables Act.
+2. The creditor or third person of the previous paragraph shall be presumed to be in possession of the goods when they are at his disposal or order in his stores or vessels or at the Customs; or if he is a holder of a consignment or if, in respect of goods which have not yet arrived in Seychelles, he holds a bill of lading of the goods pledged to him.

@@ -1,0 +1,2 @@
+# Article 100
+Unless the parties have made a special agreement, when the services of a mercantile agent are used for the dispatch and delivery of the goods, the risk of loss, damage or delay thereof shall be borne by the owner. Subject to his right to be indemnified by the mercantile agent or the carrier of the goods. In respect of such dispatch and delivery Title III of Book III of the Civil Code on Contracts and Agreement in General shall have application.

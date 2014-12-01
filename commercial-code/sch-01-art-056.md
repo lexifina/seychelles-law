@@ -1,0 +1,2 @@
+# Article 56
+A partner shall not bind the other partners unless such partners have empowered him to do so. A third party, however, who has treated with a partner who has acted without authority, shall not be penalised if it was reasonable, in the special circumstances of a case, for such a party to assume that the partner has acted with the authority of the other partners. In this respect article 2009 of the Civil Code dealing with the ostensible authority of the agent shall have application mutatis mutandis.

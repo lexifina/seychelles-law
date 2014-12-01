@@ -1,0 +1,2 @@
+# Article 404
+[repealed by Commercial Code Act. Fourth Schedule]

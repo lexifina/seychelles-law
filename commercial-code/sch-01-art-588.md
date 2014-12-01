@@ -1,0 +1,2 @@
+# Article 588
+[repealed by Commercial Code Act. Fourth Schedule]

@@ -1,0 +1,2 @@
+# Article 265
+[repealed by Commercial Code Act. Fourth Schedule]

@@ -1,0 +1,3 @@
+# Article 106
+1. Unless otherwise agreed, where the goods are delivered to the buyer and he refuses to accept them, having the right so to do, he is not bound to return them to the seller, but it is sufficient if he intimates to the seller that he refuses to accept them.
+2. If the buyer refuses to accept the goods, any party having a lawful interest may apply to the Court and request an expertise as to the condition of the goods at the time of delivery. Such request may be granted at the discretion of the Court, which may make such order as to the goods as it thinks fit in the circumstances of the case. In particular, the Court shall be free to order the sale of the goods to the extent of the costs of the carriage and for the benefit of the carrier.

@@ -1,0 +1,2 @@
+# Article 9
+The books and accounts which merchants are bound to keep in accordance with paragraph 1 of article 8 of this Code shall also contain an annual balance sheet of assets and liabilities drawn up in accordance with the principles which are generally accepted by commercial practice. Such sheet shall be complete, clear and easy to read and must indicate as accurately as possible the financial position of the business or trade in which the merchant is engaged.

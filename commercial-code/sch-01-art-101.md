@@ -1,0 +1,2 @@
+# Article 101
+A consignment note or a receipt for goods delivered shall be evidence of a contract between the consignor and the carrier. When the contract is for the delivery of goods to a third party such consignment or receipt shall be evidence of the carrier's legal obligation to such third party. The Court may, however, freely determine in respect of such contracts, the extent to which evidence other than the aforementioned consignment note or receipt shall be taken into account.

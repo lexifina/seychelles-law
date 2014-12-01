@@ -1,0 +1,2 @@
+# Article 94
+A mercantile agent is a person who transacts business either in his own name or under a trade name for the account of a principal. If he transacts business for his own account, in his own name or under a trade name, he is called a factor. Such factors are entrusted with the possession and disposal of property. If the mercantile agent transacts business for the account of a principal the agent's rights and duties are determined by the Civil Code, Title XIII of Book III.

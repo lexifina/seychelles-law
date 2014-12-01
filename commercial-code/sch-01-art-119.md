@@ -1,0 +1,4 @@
+# Article 119
+1. If an arbitrator dies or cannot, by reason of some incapacity, legal or physical perform the functions of his office, or if he refuses to accept it or does not carry it out, or if his office is terminated by the mutual agreement of the parties, he shall be replaced in accordance with the rules governing his appointment or nomination. However, if the arbitrator or arbitrators are named in the arbitration agreement, the agreement shall terminate ipso jure.
+2. A disagreement arising out of any case envisaged in paragraph 1 shall be brought before the Court on the application of one of the parties. If the Court decides that there are grounds for replacing the arbitrator, it shall nominate his successor, taking into account the intention of the parties, as it appears from the arbitration agreement.
+3. The parties may derogate from the provisions of this article.

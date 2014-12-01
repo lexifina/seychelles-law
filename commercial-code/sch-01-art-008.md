@@ -1,0 +1,4 @@
+# Article 8
+1. Every merchant and every body corporate shall be bound to keep books or accounts. Such books or accounts shall contain all transactions entered into by the merchant or the body corporate on any account whatever. The records of such transactions, whether they consist of receipts, invoices, letters received or copies of letters sent, shall be deemed to be an integral part of the books or accounts kept.
+2. Small traders, such as street traders, hawkers and other traders, who do not operate in a stable and regular way from business premises shall be exempt from the obligation to keep books or accounts. Such exemption, however, shall not confer any benefit upon them in respect of any assessment related to the payment of tax on income.
+3. Nothing in this article shall affect the obligations of a legal person incorporated under the Companies Act, for which special provision is made thereunder.

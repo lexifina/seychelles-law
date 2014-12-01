@@ -1,0 +1,2 @@
+# Article 571
+[repealed by Commercial Code Act. Fourth Schedule]

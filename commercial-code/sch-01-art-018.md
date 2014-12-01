@@ -1,0 +1,2 @@
+# Article 18
+[repealed by Commercial Code Act. Fourth Schedule]

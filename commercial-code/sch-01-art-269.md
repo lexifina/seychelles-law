@@ -1,0 +1,2 @@
+# Article 269
+[repealed by Commercial Code Act. Fourth Schedule]

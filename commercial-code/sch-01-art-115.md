@@ -1,0 +1,2 @@
+# Article 115
+The parties may, either in the arbitration agreement or subsequently thereto, appoint the sole arbitrator or the arbitrators or entrust the appointment thereof to a third party. If the parties have not appointed the arbitrators and have not agreed on a method of appointment, each party shall, when the dispute arises, appoint an arbitrator, or an equal number of arbitrators, as the case may be.

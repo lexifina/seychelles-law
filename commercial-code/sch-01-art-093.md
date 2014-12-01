@@ -1,0 +1,2 @@
+# Article 93
+If the debtor fails to pay when the debt falls due the creditor may, eight days after serving notice to the debtor and to the third party, if any, proceed to the public sale of the property pledged. A creditor may, with the permission of the Court, keep the property pledged by way of payment to the extent of its value. The Court may determine the value of such property without any reference to an expertise if the amount due is precisely known and the debtor obviously solvent.

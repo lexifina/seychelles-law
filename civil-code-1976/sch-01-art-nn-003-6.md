@@ -1,0 +1,2 @@
+# Article — 2091 - 3
+When a floating charge crystallises, the Court shall decide at its discretion whether any, and if so what, assets of the property of the debtor shall be sold or whether, in addition to the sale or in lieu of it, a receiver shall be appointed. Such receiver shall be bound by such instructions, orders or rules as the Court in the exercise of its unfettered discretion may make, vary or determine.

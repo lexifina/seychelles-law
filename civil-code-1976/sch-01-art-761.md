@@ -1,0 +1,3 @@
+# Article 761
+If the surviving spouse, or the children of his or her marriage, demand that in any distribution of property they be preferred in the award of certain specific items of the succession, the natural children referred to in the two preceding articles shall not be entitled to refuse it. Provided that such surviving spouse or his or her children are prepared to make a cash adjustment if necessary. The same choice of items of the succession shall extend to the home which the claimant or claimants were using for casual residence.
+The surviving spouse may exercise this right when he comes to the succession as a result of article 767.

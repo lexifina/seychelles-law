@@ -1,0 +1,2 @@
+# Article 867
+When the legacies given to a person entitled to succeed, or to such persons jointly, relate to an item of property or several items making up a set, the value of which exceeds the disposable portion, the legatee or legatees may, whatever the excess, claim the whole of the gift subject to the compensation of the co-heirs in money. The same rule shall apply if the gift relates to movables which were jointly used by the deceased and the legatee.

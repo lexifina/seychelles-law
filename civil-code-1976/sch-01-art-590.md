@@ -1,0 +1,3 @@
+# Article 590
+If the usufruct includes copses regularly felled, the usufructuary shall be bound to observe the order and size of cuttings in accordance with the plan or the long practice of the owner; no indemnity, however, shall be paid to the usufructuary or his heirs for any ordinary cuttings of copses or straddles or forest trees which the usufructuary had not carried out when he had the right of enjoyment.
+The trees which may be removed from a nursery without causing any damage to it, are included in the usufruct, on condition that the usufructuary acts in accordance with the local practice with regard to their replacement.

@@ -1,0 +1,3 @@
+# Article 598
+He shall also enjoy, in the same manner as the owner, the mines and quarries which are in operation at the beginning of the usufruct; nevertheless, if these resources could not have been exploited without a permit, the usufructuary shall not be allowed to enjoy them without having first obtained such a permit, as provided by the laws in force from time to time.
+There shall be no right to mines and quarries which have not yet been exploited, nor shall there be rights either to turf-pits if the exploitation has not yet started, or to treasure trove found in the course of the usufruct.

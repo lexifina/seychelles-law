@@ -1,0 +1,2 @@
+# Article 966
+The donee, his heirs or assigns or other holders of gifts shall not plead prescription to validate the gift revoked by reason of the subsequent birth of a child, except after possession of twenty years which shall only start to run from the day of the birth of the last child of the donor, even if born after the death of the donor; and this without prejudice to any interruptions of prescription imposed by law.

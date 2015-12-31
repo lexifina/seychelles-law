@@ -1,0 +1,3 @@
+# Article 830
+Where a fiduciary has given a discharge in respect of any asset, debt or obligation, or sold or otherwise disposed of property or any interest therein or part thereof or done any other act in relation to the property which he holds as fiduciary, in accordance with the terms of the instrument of appointment or with any order of the Court or with the provisions of the law, such discharge, sale, disposal or act shall have the same effect, in all respects, as if it had been given, made or done by all the co-owners whatever their status or capacity.
+He shall not be personally liable in respect of any act done or obligation incurred in the proper exercise of his functions.

@@ -1,0 +1,2 @@
+# Article 766
+When the deceased spouse leaves no descendants, ascendants or, in the collateral line, any heirs within the third degree inclusively of relationship, or any descendants of nephews and nieces, his succession shall devolve upon the surviving spouse. Provided that in this case article 759, in respect of the rights of the surviving spouse when there are natural children, as provided by that article, shall have application.

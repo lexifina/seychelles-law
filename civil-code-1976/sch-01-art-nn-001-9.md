@@ -1,0 +1,3 @@
+# Article — 1718 - 1
+Leases of property of a minor exceeding nine years shall only bind the minor who has reached majority or his heirs for the time which remains to run out of the first period of nine years, if that period has not elapsed, or out of the second period and so on, so that the lessee shall only be entitled to a tenancy for the remainder of the period of nine years in which the minor reaches majority or dies.
+Leases of property of a minor executed or renewed before the expiry of the running lease in the case of agricultural property and in the case of houses, shall be without effect unless the term has commenced or is intended to commence before the minor's majority.

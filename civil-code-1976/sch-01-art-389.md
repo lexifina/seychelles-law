@@ -1,0 +1,5 @@
+# Article 389
+1. The father during marriage shall be the administrator of the property of his minor unemancipated children with the exception of such property as may have been given or bequeathed under the express condition that it be administered by a third party. He shall be accountable both for the property and the income from property which he is not entitled to enjoy; he shall be accountable for the property only if he is entitled to the usufruct of it.
+2. If the father cannot act or if he is deprived of his administration, the mother shall have such administration with all the powers that the father previously enjoyed.
+3. In case of divorce or judicial separation the administration shall be entrusted to the spouse who has the custody of the children, unless the Court orders otherwise.
+4. An ad hoc administrator shall be appointed by the Court where there is a conflict of interests. The powers and duties of such a legal administrator are regulated by such laws as are enacted from time to time.

@@ -1,0 +1,2 @@
+# Article 986
+Wills made on an island on which there are no notaries may be received by a judicial or Government officer or by the manager or assistant manager of that island, provided that it is impossible or dangerous to communicate with a larger centre of population in which notarial offices are available. The impossibility or danger of communication shall be certified on the will by the person who received it.

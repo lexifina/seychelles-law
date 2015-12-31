@@ -1,0 +1,2 @@
+# Article 661
+Every owner adjoining a wall is entitled to make it a party-wall, whether the whole or a part of it, by paying the owner of the wall one half of its cost or one half of the cost of that part of the wall which he wants to make a party-wall, as well as one half of the value of the ground on which the wall is built. The cost of the wall shall be calculated at the date of the acquisition of party-wall rights having regard to the present condition of the wall.

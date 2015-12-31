@@ -1,0 +1,3 @@
+# Article 822
+If the property subject to co-ownership is movable, it shall not be necessary for a fiduciary to be appointed. The co-owners may, however, if they so wish, agree upon the appointment of a fiduciary, who may be either one of them or a third party. If by reason of disagreement or absence or for any other cause all the co-owners are unable to agree upon the appointment of a fiduciary, he shall be appointed by the Court on application of any co-owner. The Court may also appoint a fiduciary on the application of an interested party.
+When a fiduciary has been appointed under this article, he shall hold the rights of all the co-owners who may only act through him.

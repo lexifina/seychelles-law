@@ -1,0 +1,3 @@
+# Article 682
+1. The owner whose property is enclosed on all sides, and has no access or inadequate access on to the public highway, either for the private or for the business use of his property, shall be entitled to claim from his neighbours a sufficient right of way to ensure the full use of such property, subject to his paying adequate compensation for any damage that he may cause.
+2. However, where the owner has been deprived of access to a public road, street or path in pursuance of an order converting a public road into private property, the person who has been granted such property shall be required to provide a right of way to the owner without demanding any compensation.

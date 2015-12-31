@@ -1,0 +1,2 @@
+# Article 800
+The heir shall nevertheless, retain after the expiry of the time-limits allowed by article 795 and even after those allowed by the Court in pursuance of article 798, the capacity to draw up an inventory and to become heir with benefit of inventory if he has not otherwise done any act as heir, or if a final judgment has not been pronounced which condemns him in his capacity as heir purely and simply.

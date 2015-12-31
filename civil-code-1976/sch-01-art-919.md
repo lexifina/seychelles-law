@@ -1,0 +1,3 @@
+# Article 919
+1. The disposable portion may be given in its entirety or in part, either by a gift inter vivos or by will, to the children or other persons entitled to succeed to the donor without being subject to return by the donee or legated coming to the succession, provided that, with regard to the gifts, the disposition was made with the express intention to set the gift aside for the donee in addition to his share.
+2. The declaration that the gift or the legacy is over and above the donee's share or separate from it may be made in the act containing the disposition or subsequently in the form of dispositions inter vivos or by will.

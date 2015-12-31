@@ -1,0 +1,2 @@
+# Article — 1381 - 1
+If a person suffers some detriment without lawful cause and another is correspondingly enriched without lawful cause, the former shall be able to recover what is due to him to the extent of the enrichment of the latter. Provided that this action for unjust enrichment shall only be admissible if the person suffering the detriment cannot avail himself of another action in contract, or quasi-contract, delict or quasi-delict; provided also that detriment has not been caused by the fault of the person suffering it.

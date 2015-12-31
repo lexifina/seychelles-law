@@ -1,0 +1,5 @@
+# Article 552
+1. Ownership of the soil carries with it the ownership of what is above and what is below it.
+The owner may plant upon it any plants and may build any structures which he deems proper, with the exceptions established in the Title Easements or Real Rights over Land other than Ownership; subject also to any law relating to mines and to the security of Seychelles.
+2. He may build on it any structure and may make any excavations which he will deem opportune and may take from these excavations any produce that it can yield.
+3. These provisions shall not be construed to permit an owner to extract any minerals in, under or upon land or in rivers or streams, nor shall it be construed to allow an owner to search, prospect or acquire any rights whatsoever relating to petroleum existing in its natural condition in strata in or under any part of Seychelles. All such minerals and petroleum shall vest in the Republic. Matters dealt with in this article shall be subject to such laws as shall from time to time apply.

@@ -1,0 +1,3 @@
+# Article 823
+1. A fiduciary who is not appointed by the Court shall be appointed by a duly authenticated notarial document which shall contain the terms of his appointment. If the co-owners so decide, they may appoint more than one fiduciary but no more than three in all. They shall act jointly or severally as the notarial document provides. If there is no provision all fiduciaries shall be deemed to act jointly. In the absence of a provision in the notarial document, fiduciaries may appoint others to replace those who are no longer in a position to act.
+2. When this Code refers to a fiduciary, that term shall also include a legal person where such person has been so appointed.

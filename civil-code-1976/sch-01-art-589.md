@@ -1,0 +1,2 @@
+# Article 589
+If the usufruct includes things which, although not immediately consumed, deteriorate gradually by use, such as clothing or linen or movable furniture, the usufructuary shall be entitled to use them for the purpose of which they are intended and he shall be obliged to return them at the termination of the usufruct in such condition as they may be, provided that they have not been damaged though his fraud or negligence.

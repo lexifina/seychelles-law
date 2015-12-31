@@ -1,0 +1,2 @@
+# Article 977
+If the testator does not know how to sign, or if he was unable to do so when he caused his dispositions to be written, the procedure shall be the same as in the preceding article; in addition to this, mention shall be made in the memorandum of confirmation that the testator has declared that he does not know how to write, or that he was unable to do so when he caused his dispositions to be written.

@@ -1,0 +1,3 @@
+# Article 930
+1. The action for reduction or vindication may be brought by the heirs against third parties holding immovable property forming part of the gifts and alienated by the donees in the same manner and order as against the donees themselves, provided that the property of the donees has previously been seized. That action shall be brought following the order of the dates of the alienations, beginning with the most recent one.
+2. If the donor has agreed to the alienation with the consent of all the heirs entitled to the reserve who are born and alive at the time of such alienation, the action may no longer be brought against third parties holding the property.

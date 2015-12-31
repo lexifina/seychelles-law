@@ -1,0 +1,3 @@
+# Article 958
+The revocation by reason of ingratitude shall be without prejudice either to the transfers made by the donee or the mortgages and other real charges which the latter may have created upon the object of the gifts provided that these rights were granted or created prior to the inscription, in the margin of the transcription prescribed in article 939 of this Code, of the demand of revocation at the Office of the Registrar-General.
+In case of revocation the donee shall be condemned to restore the value of the objects alienated, having regard to the time of the demand and the income therefrom as from the day of such demand.

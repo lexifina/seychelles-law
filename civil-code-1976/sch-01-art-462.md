@@ -1,0 +1,2 @@
+# Article 462
+Whenever a succession of movable property which has been repudiated on behalf of the minor has not been accepted by another person, the guardian may later revive the claim thereto. The claims may also be revived by the minor who has reached majority or who has been emancipated. But such succession may only be claimed in the state in which it happens to be when so reclaimed, and any sales and other transactions which have been legally effected while the inheritance was vacant, shall not be attacked.

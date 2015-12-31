@@ -1,0 +1,2 @@
+# Article 831
+A fiduciary shall be entitled to full indemnity from the co-owners for acts properly done. Such co-owners shall be jointly and severally liable to the fiduciary for any loss which he incurs in the proper discharge of his duties: Provided that an heir or legatee shall not be liable to indemnify the fiduciary in respect of any such loss to a greater extent than the value of any benefit or benefits the heir or legatee may have received under the succession.

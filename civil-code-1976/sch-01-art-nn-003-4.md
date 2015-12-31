@@ -1,0 +1,2 @@
+# Article — 1601 - 3
+The sale of the future completion of a building is a contract whereby the seller transfers immediately to the buyer his rights to the soil as well as the ownership of any existing structures thereon. The future structures shall belong to the buyer stage by stage as they are built; the buyer shall be bound to pay the price in proportion to the progress of the work. The seller retains his right to be in charge of the works until they have been accepted.

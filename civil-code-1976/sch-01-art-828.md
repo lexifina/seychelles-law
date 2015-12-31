@@ -1,0 +1,2 @@
+# Article 828
+If the consent of a person to be appointed fiduciary has not been obtained, or if he dies or is imprisoned for a crime or becomes insolvent or subject to some incapacity or resigns or refuses to act prior to entering into his functions, or if any of the aforementioned circumstances occur after he has assumed the office of fiduciary, the co-owners may agree to appoint another. Failing such agreement the Court, at the request of an interested party, shall make such appointment as it considers fit and proper.

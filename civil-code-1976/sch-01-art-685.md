@@ -1,0 +1,3 @@
+# Article 685
+1. The position and the form of the right of way on the ground of non-access are determined by twenty years' continuous use. If at any time before that period the dominant tenement obtains access in some other way, the owner of the servient tenement shall be entitled to reclaim the right of way on condition that he is prepared to return such a proportion of any compensation received under paragraph 1 of article 682 as is reasonable in the circumstances.
+2. The action for compensation as provided in paragraph 1 of article 682 may be barred by prescription; but the right of way shall continue in spite of the loss of such action.

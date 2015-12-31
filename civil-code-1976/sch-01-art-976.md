@@ -1,0 +1,6 @@
+# Article 976
+If the testator wants to make a secret will, the paper on which the dispositions will be written, or the paper which will be used as cover, if any, shall be closed, stuck and sealed.
+The testator shall deliver it thus closed, stuck and sealed to the notary and two witnesses, or he shall cause it to be closed, stuck and sealed in their presence and he shall declare that the contents of that paper consist of his will signed by him, and written by him or by another, and he shall affirm, in the latter case, that he has personally verified the text; he shall indicate, in any event, the type of writing used (by hand or typewriter).
+The notary shall draw up a memorandum of confirmation which he shall write or shall cause to be written by hand or typewriter on that paper, or on the paper which serves as cover, and it shall bear the date and the indication of the place where it was drawn up, as well as a mention of all the above forms; that memorandum shall be signed by the testator as well as by the notary and the witnesses.
+All the above shall be done consecutively and without attending to other business.
+If the testator, through an impediment subsequent to the signing of the will, cannot sign the memorandum of confirmation, mention shall be made of the statement to that effect and of the reason which he has given therefor.

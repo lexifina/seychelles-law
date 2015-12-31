@@ -1,0 +1,2 @@
+# Long title
+[Act 4 of 1883; Act 16 of 1898; Act 7 of 1904; Act 4 of 1911; Act 14 of 1916; Act 4 of 1917; Act 14 of 1917; Act 9 of 1919; Act 11 of 1925; Act 1 of 1934; Act 21 of 1938; Act 7 of 1946; Act 9 of 1948; Act 10 of 1951; Act 1 of 1953; Act 15 of 1955; Act 4 of 1956; Act 9 of 1958; Act 5 of 1959; Act 7 of 1961; Act 3 of 1963; Act 19 of 1963; S.I. 6 of 1971; S.I. 91 of 1975; Act 13 of 1975; S.I. 104 of 1975; S.I. 72 of 1976; Act 23 of 1976; Act 22 of 1980; Act 16 of 1982; Act 17 of 1985; Act 7 of 1989; Act 10 of 2000; S.I. 57 of 2000; S.I. 47 of 2009]

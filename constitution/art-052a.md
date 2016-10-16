@@ -1,6 +1,6 @@
 # Article 52A. Appealing for fresh mandate
 (1) The provisions of this article shall have effect notwithstanding anything to the contrary in the other provisions of this Chapter.
-(2) The President may, at any time after the expiration of one year from the commencement of the President's first or second term of office, by Proclamation published in the Gazette, declare the President's intention of appealing to the People for a mandate to hold office, by election, for a further term.
+(2) The President may, at any time after the expiration of one year from the commencement of the President's first term of office, by Proclamation published in the Gazette, declare the President's intention of appealing to the People for a mandate to hold office, by election, for a further term.
 (3) Upon the making of a Proclamation under clause (2), the Electoral Commission shall, subject to the provisions of this article, hold a Presidential election.
 (4) (a) The President may revoke a Proclamation made under this article by notice published in the Gazette, at any time before the day appointed as nomination day in relation to the election ofthe President.
 (b) The President shall not withdraw the President's nomination as candidate at such election.

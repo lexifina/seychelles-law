@@ -27,6 +27,7 @@ Part I
 25. Licensing of Drivers
 26. Registration
 27. Use of Vehicles on Public Roads
+28. Operator of Sports Entertainment
 Part II
 Licences (Accommodation, Catering and Entertainment Establishment) Regulations, 2001
 Licences (Manufacturing) Regulations, 1999

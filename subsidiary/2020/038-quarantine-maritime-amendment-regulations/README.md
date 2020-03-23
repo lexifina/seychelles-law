@@ -8,4 +8,4 @@ In force: 2020-03-23 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. S.I. 22 of 1948 as last amended by S.I. 42 of 1978 Offence and penalties |
+| [s-002.md](s-002.md) | 2. S.I. 22 of 1948 as last amended by S.I. 42 of 1978 |

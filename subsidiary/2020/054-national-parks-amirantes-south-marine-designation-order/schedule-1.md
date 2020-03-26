@@ -1,0 +1,3 @@
+# Schedule
+
+Amirantes South (Marine) National Park shall comprise an area in the Amirantes Group surrounding the islands of Etoile, Boudeuse, Desnoeufs and Marie-Louise with the boundary starting at the southernmost point, Point 30 (UTM39, 717,289.79; 9,296,478.68), northwest to Point 31 (UTM39, 692,121.55; 9,317,384.30), northeast to Point 32 (UTM39, 726,891.98; 9,352,899.74), southeast to Point 33 (UTM39, 739,566.43; 9,319,129.34), then southwest back to Point 30, the point of commencement. MADE this 26th day of March 2020. WALLACE COSGROW MINISTER OF ENVIRONMENT, ENERGY AND CLIMATE CHANGE ———————

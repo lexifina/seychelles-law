@@ -8,4 +8,4 @@ In force: 2020-04-07 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendment of S.I. 8 of 1960 as last amended by S.I. 58 of 2020 Restriction on travel |
+| [s-002.md](s-002.md) | 2. Amendment of S.I. 8 of 1960 as last amended by S.I. 58 of 2020 |

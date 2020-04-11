@@ -7,6 +7,6 @@ In force: 2020-04-11 (the day of its publication in the Gazette; the Act names n
 | File | Provision |
 | --- | --- |
 | [s-001.md](s-001.md) | 1. Short title |
-| [s-002.md](s-002.md) | 2. Amendment of Act 1 of 2020 |
+| [s-002.md](s-002.md) | Section 2 |
 | [schedule-1.md](schedule-1.md) | Schedule |
 | [sch-01-art-0003.md](sch-01-art-0003.md) | Article 3 |

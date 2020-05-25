@@ -7,4 +7,4 @@ In force: 2020-05-25 (the day of its publication in the Gazette; the Act names n
 | File | Provision |
 | --- | --- |
 | [s-001.md](s-001.md) | 1. Short title |
-| [s-002.md](s-002.md) | 2. Amendment of Cap 58 as last amended by Act 13 of 2006 Coast Guard. Coast Guard passage Immunity of members of the Def |
+| [s-002.md](s-002.md) | 2. Amendment of Cap 58 as last amended by Act 13 of 2006 Coast Guard. Coast Guard |

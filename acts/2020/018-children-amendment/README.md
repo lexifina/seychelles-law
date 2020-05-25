@@ -7,4 +7,4 @@ In force: 2020-05-25 (the day of its publication in the Gazette; the Act names n
 | File | Provision |
 | --- | --- |
 | [s-001.md](s-001.md) | 1. Short title |
-| [s-002.md](s-002.md) | 2. Amendment of Cap 28 as last amended by Act 14 of 2016 Prohibition of corporal punishment |
+| [s-002.md](s-002.md) | 2. Amendment of Cap 28 as last amended by Act 14 of 2016 |

@@ -8,4 +8,4 @@ In force: 2020-05-27 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendment of S.I. 52 of 2012 Conditions for payment over SCR5000 |
+| [s-002.md](s-002.md) | 2. Amendment of S.I. 52 of 2012 |

@@ -7,4 +7,4 @@ In force: 2020-06-01 (the day of its publication in the Gazette; the Act names n
 | File | Provision |
 | --- | --- |
 | [s-001.md](s-001.md) | Section 1 |
-| [s-002.md](s-002.md) | 2. Amendment of Cap 69 as last amended by Act 24 of 2016 Prohibition against deferment or reduction of wages |
+| [s-002.md](s-002.md) | 2. Amendment of Cap 69 as last amended by Act 24 of 2016 |

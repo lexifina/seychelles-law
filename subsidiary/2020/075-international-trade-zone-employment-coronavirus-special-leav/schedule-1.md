@@ -1,0 +1,3 @@
+# Schedule
+
+FORM FOR SPECIAL LEAVE APPLICATION Application for special leave under International Trade Zone Employment (Coronavirus Special Leave) (Temporary measures) Order, 2020 for working parents I hereby declare that the information provided is true and correct. I also understand that any false declaration shall result in disciplinary action against me. Signature:......................................... Date:...........................

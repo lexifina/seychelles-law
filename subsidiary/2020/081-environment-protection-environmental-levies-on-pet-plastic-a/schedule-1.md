@@ -1,0 +1,3 @@
+# Schedule
+
+Environmental Levies on PET, Plastic and Glass Bottles and Cans Column (1) Column (2) Column (3) Item Description of Goods Levy (SCR) 1. Glass bottles containing alcoholic beverages SCR 2.00/bottle 2. Empty glass bottles used for bottling of SCR 2.00/bottle alcoholic beverages. 3. PET bottles containing beverages SCR 1.00/bottle 4. Plastic bottles containing beverages SCR 1.00/bottle 5. Bottles in performs of plastics including PET SCR 1.00/bottle 6. Empty cans used for beverages SCR 1.00/can 7. Cans containing beverages SCR 1.00/can MADE this 30th day of June, 2020. WALLACE COSGROW MINISTER OF ENVIRONMENT, ENERGY AND CLIMATE CHANGE ———————

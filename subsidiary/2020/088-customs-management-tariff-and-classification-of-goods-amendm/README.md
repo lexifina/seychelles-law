@@ -8,4 +8,4 @@ In force: 2020-08-03 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendment of S.I. 23 of 2018 as last amended by S.I. 65 of 2020 6307.9020 - - - Face mask for 0% 0% 0% 0% 0% 0% 0% me |
+| [s-002.md](s-002.md) | 2. Amendment of S.I. 23 of 2018 as last amended by S.I. 65 of 2020 |

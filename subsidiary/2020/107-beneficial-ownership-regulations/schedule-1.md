@@ -1,0 +1,3 @@
+# Third Schedule
+
+(See regulation 15) MADE this 27th day of August, 2020. MAURICE LOUSTAU-LALANNE MINISTRY OF FINANCE, TRADE, INVESTMENT AND ECONOMIC PLANNING ———————

@@ -23,5 +23,5 @@ In force: 2020-08-28 (the day the instrument itself names: "come into operation 
 | [s-014.md](s-014.md) | 14. Disclosure of a new beneficial owner |
 | [s-015.md](s-015.md) | 15. Inspection of the beneficial ownership register of extractive companies |
 | [s-016.md](s-016.md) | 16. Access to the database |
-| [s-017.md](s-017.md) | 17. Disclosure of information from the database Name of legal person or arrangement Identification number Name of Reside |
+| [s-017.md](s-017.md) | 17. Disclosure of information from the database Name of legal person or arrangement Identification number owner |
 | [schedule-1.md](schedule-1.md) | Third Schedule |

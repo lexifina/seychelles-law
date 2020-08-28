@@ -1,0 +1,15 @@
+# Fourth Schedule
+
+[Section 9] PROVISIONS AS TO THE CONDUCT OF BUSINESS AND AFFAIRS OF THE COMMITTEE 1. The Committee to meet at least four times in a year: The Committee shall meet as often as necessary for the transaction of business but it shall meet not less than four times in every financial year and the gap between one meeting and other shall not exceed four months. 2. The Chairperson shall preside over all meetings of the Committee:
+
+(1) The Chairperson shall preside every meeting of the Committee at which the Chairperson is present but, in the absence of the Chairperson, the members present shall appoint one among them to preside at that meeting as an acting Chairperson.
+
+(2) The Chairperson or, in the absence of the Chairperson, a member appointed by the Committee to act in place of the Chairperson as acting Chairperson, may at any time call a special meeting upon a written request by a majority of the members. 3. Notice of the meeting: Unless the majority of the members otherwise agree, at least seven days clear written notice of every meeting of the Committee shall be given to every member of the Committee. 4. Decision of the Committee to be by majority: Unless a unanimous decision is reached, a decision on any matter before the Committee shall be by a majority of votes of the members present and, in the case of an equality of votes, the Chairperson or the member presiding shall have a casting vote. 5. Member entitled to have opinion recorded: AnymemberpresentatameetingoftheCommitteeorasubcommitteethereof,shall have the right to record the member’s opinion in the minutes of the Committee or the sub-committee, as the case may be. 6. Committee member to disclose interest: A member of the Committee who has a direct or indirect interest in a matter being considered or to be considered by the Committee shall, as soon as possible after the relevant facts concerning the matter have come to the member’s knowledge, disclose the nature of the member’s interest to the Committee and shall not be present during any deliberations on the matter. 7. The Committee to cause minutes to be recorded and kept: The Committee shall cause the minutes of all proceedings of its meetings to be recorded and kept, and the minutes of each meeting shall be confirmed by the Committee at the next meeting of the Committee and signed by the Chairperson or acting Chairperson presiding at the meeting. 8. Quorum:
+
+(1) Subject to sub-paragraph (2) of this paragraph, five members shall constitute a quorum for the conduct of business at any meeting of the Committee but no decision of the Committee shall be binding unless it is ratified by no fewer than seven members.
+
+(2) WhenthereisnoquorumatorforthecontinuationofameetingoftheCom mitteefor exclusionofamemberunderparagraph6,theothermembers present may, if they deem it expedient so to do—
+
+(a) postpone the consideration of that matter until there is a quorum; or
+
+(b) proceed to consider and decide the matter as if there was quorum. _________________

@@ -8,5 +8,5 @@ In force: 2020-08-31 (the day from which it is deemed to have come into operatio
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendments to S.I. 108 of 2020 Retention of identification details in wire transfers |
+| [s-002.md](s-002.md) | 2. Amendments to S.I. 108 of 2020 |
 | [s-003.md](s-003.md) | Section 3 |

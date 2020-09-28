@@ -8,4 +8,4 @@ In force: 2020-09-28 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendment of S.I. 10 of 2020 Temporary measures in respect of fee on renewable of licence |
+| [s-002.md](s-002.md) | 2. Amendment of S.I. 10 of 2020 |

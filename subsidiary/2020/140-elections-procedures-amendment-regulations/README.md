@@ -8,4 +8,4 @@ In force: 2020-10-05 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendments of S.I. 56 of 2016 Definitions |
+| [s-002.md](s-002.md) | 2. Amendments of S.I. 56 of 2016 |

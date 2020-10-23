@@ -8,4 +8,4 @@ In force: 2020-10-23 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendment of S.I. 26 of 2011 20. Supervising the destruction of perishable goods or out of time goods from FSA or a z |
+| [s-002.md](s-002.md) | 2. Amendment of S.I. 26 of 2011 |

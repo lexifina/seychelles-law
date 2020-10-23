@@ -1,0 +1,124 @@
+# National Assembly Standing Orders
+
+Statutory Instrument No. 150 of 2020, as published in the Supplement to the Official Gazette of Seychelles of 2020-10-23: https://www.gazette.sc/sites/default/files/2020-12/SI%20150%202020%20-%20Standing%20Orders%20-%2023rd%20October%202020.pdf
+
+In force: 2020-10-23 (the day of its publication in the Gazette; the instrument names no other day).
+
+| File | Provision |
+| --- | --- |
+| [preamble.md](preamble.md) | Enacting formula |
+| [s-001.md](s-001.md) | Section 1 |
+| [s-002.md](s-002.md) | Section 2 |
+| [s-003.md](s-003.md) | Section 3 |
+| [s-004.md](s-004.md) | 4. OF THE ASSEMBLY |
+| [s-005.md](s-005.md) | Section 5 |
+| [s-006.md](s-006.md) | Section 6 |
+| [s-007.md](s-007.md) | Section 7 |
+| [s-008.md](s-008.md) | Section 8 |
+| [s-009.md](s-009.md) | Section 9 |
+| [s-010.md](s-010.md) | Section 10 |
+| [s-011.md](s-011.md) | Section 11 |
+| [s-012.md](s-012.md) | Section 12 |
+| [s-013.md](s-013.md) | Section 13 |
+| [s-014.md](s-014.md) | Section 14 |
+| [s-015.md](s-015.md) | Section 15 |
+| [s-016.md](s-016.md) | Section 16 |
+| [s-017.md](s-017.md) | Section 17 |
+| [s-018.md](s-018.md) | Section 18 |
+| [s-019.md](s-019.md) | Section 19 |
+| [s-020.md](s-020.md) | Section 20 |
+| [s-021.md](s-021.md) | Section 21 |
+| [s-022.md](s-022.md) | Section 22 |
+| [s-023.md](s-023.md) | Section 23 |
+| [s-024.md](s-024.md) | Section 24 |
+| [s-025.md](s-025.md) | Section 25 |
+| [s-026.md](s-026.md) | Section 26 |
+| [s-027.md](s-027.md) | Section 27 |
+| [s-028.md](s-028.md) | Section 28 |
+| [s-029.md](s-029.md) | Section 29 |
+| [s-030.md](s-030.md) | Section 30 |
+| [s-031.md](s-031.md) | Section 31 |
+| [s-032.md](s-032.md) | Section 32 |
+| [s-033.md](s-033.md) | Section 33 |
+| [s-034.md](s-034.md) | Section 34 |
+| [s-035.md](s-035.md) | Section 35 |
+| [s-036.md](s-036.md) | Section 36 |
+| [s-037.md](s-037.md) | Section 37 |
+| [s-038.md](s-038.md) | 38. AND PRIVILEGE |
+| [s-039.md](s-039.md) | Section 39 |
+| [s-040.md](s-040.md) | Section 40 |
+| [s-041.md](s-041.md) | Section 41 |
+| [s-042.md](s-042.md) | Section 42 |
+| [s-043.md](s-043.md) | Section 43 |
+| [s-044.md](s-044.md) | Section 44 |
+| [s-045.md](s-045.md) | Section 45 |
+| [s-046.md](s-046.md) | Section 46 |
+| [s-047.md](s-047.md) | Section 47 |
+| [s-048.md](s-048.md) | Section 48 |
+| [s-049.md](s-049.md) | Section 49 |
+| [s-050.md](s-050.md) | Section 50 |
+| [s-051.md](s-051.md) | Section 51 |
+| [s-052.md](s-052.md) | Section 52 |
+| [s-053.md](s-053.md) | Section 53 |
+| [s-054.md](s-054.md) | Section 54 |
+| [s-055.md](s-055.md) | Section 55 |
+| [s-056.md](s-056.md) | Section 56 |
+| [s-057.md](s-057.md) | Section 57 |
+| [s-058.md](s-058.md) | Section 58 |
+| [s-059.md](s-059.md) | Section 59 |
+| [s-060.md](s-060.md) | Section 60 |
+| [s-061.md](s-061.md) | Section 61 |
+| [s-062.md](s-062.md) | Section 62 |
+| [s-063.md](s-063.md) | Section 63 |
+| [s-064.md](s-064.md) | Section 64 |
+| [s-065.md](s-065.md) | Section 65 |
+| [s-066.md](s-066.md) | Section 66 |
+| [s-067.md](s-067.md) | Section 67 |
+| [s-068.md](s-068.md) | Section 68 |
+| [s-069.md](s-069.md) | Section 69 |
+| [s-070.md](s-070.md) | Section 70 |
+| [s-071.md](s-071.md) | Section 71 |
+| [s-072.md](s-072.md) | Section 72 |
+| [s-073.md](s-073.md) | Section 73 |
+| [s-074.md](s-074.md) | Section 74 |
+| [s-075.md](s-075.md) | Section 75 |
+| [s-076.md](s-076.md) | Section 76 |
+| [s-077.md](s-077.md) | Section 77 |
+| [s-078.md](s-078.md) | Section 78 |
+| [s-079.md](s-079.md) | Section 79 |
+| [s-080.md](s-080.md) | Section 80 |
+| [s-081.md](s-081.md) | Section 81 |
+| [s-082.md](s-082.md) | Section 82 |
+| [s-083.md](s-083.md) | Section 83 |
+| [s-084.md](s-084.md) | Section 84 |
+| [s-085.md](s-085.md) | Section 85 |
+| [s-086.md](s-086.md) | Section 86 |
+| [s-087.md](s-087.md) | Section 87 |
+| [s-088.md](s-088.md) | 88. SELECT COMMITTEES |
+| [s-089.md](s-089.md) | Section 89 |
+| [s-090.md](s-090.md) | Section 90 |
+| [s-091.md](s-091.md) | Section 91 |
+| [s-092.md](s-092.md) | Section 92 |
+| [s-093.md](s-093.md) | Section 93 |
+| [s-094.md](s-094.md) | Section 94 |
+| [s-095.md](s-095.md) | Section 95 |
+| [s-096.md](s-096.md) | Section 96 |
+| [s-097.md](s-097.md) | Section 97 |
+| [s-098.md](s-098.md) | Section 98 |
+| [s-099.md](s-099.md) | Section 99 |
+| [s-100.md](s-100.md) | Section 100 |
+| [s-101.md](s-101.md) | Section 101 |
+| [s-102.md](s-102.md) | Section 102 |
+| [schedule-1.md](schedule-1.md) | Schedule 1 |
+| [sch-01-art-0001.md](sch-01-art-0001.md) | Article 1 |
+| [sch-01-art-0002.md](sch-01-art-0002.md) | Article 2 |
+| [sch-01-art-0003.md](sch-01-art-0003.md) | Article 3 |
+| [sch-01-art-0004.md](sch-01-art-0004.md) | Article 4 |
+| [sch-01-art-0005.md](sch-01-art-0005.md) | Article 5 |
+| [sch-01-art-0006.md](sch-01-art-0006.md) | Article 6 |
+| [sch-01-art-0007.md](sch-01-art-0007.md) | Article 7 |
+| [sch-01-art-0008.md](sch-01-art-0008.md) | Article 8 |
+| [sch-01-art-0009.md](sch-01-art-0009.md) | Article 9 |
+| [sch-01-art-0010.md](sch-01-art-0010.md) | Article 10 |
+| [sch-01-art-0011.md](sch-01-art-0011.md) | Article 11 |
+| [sch-01-art-0012.md](sch-01-art-0012.md) | Article 12 |

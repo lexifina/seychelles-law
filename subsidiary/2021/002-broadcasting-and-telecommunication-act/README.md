@@ -8,4 +8,4 @@ In force: 2021-01-25 (the day of its publication in the Gazette; the instrument 
 | --- | --- |
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Amendment of S.I. 41 of 2009 Restriction on sale of starter pack or subscriber information module card Activation of  |
+| [s-002.md](s-002.md) | 2. Amendment of S.I. 41 of 2009 Activation of service on cerification Offences and penalties |

@@ -6,10 +6,10 @@ In force: 2021-02-08 (the day of its publication in the Gazette; the instrument 
 
 | File | Provision |
 | --- | --- |
-| [preamble.md](preamble.md) | Enacting formula |
-| [s-001.md](s-001.md) | 1. Citation |
-| [s-002.md](s-002.md) | 2. Fixed penalty notice |
-| [s-003.md](s-003.md) | 3. Manner of issue of fixed penalty notice |
-| [s-004.md](s-004.md) | 4. Register of fixed penalty notice |
-| [s-005.md](s-005.md) | 5. Register of sums received by way of fixed penalty |
-| [s-006.md](s-006.md) | 6. Offences and penalties |
+| [s-001.md](s-001.md) | Section 1 |
+| [s-002.md](s-002.md) | Section 2 |
+| [s-003.md](s-003.md) | Section 3 |
+| [s-004.md](s-004.md) | Section 4 |
+| [s-005.md](s-005.md) | Section 5 |
+| [s-006.md](s-006.md) | Section 6 |
+| [s-006-p7.md](s-006-p7.md) | 6. Offences and penalties |

@@ -8,9 +8,7 @@ In force: 2021-06-28 (the day of its publication in the Gazette; the Act names n
 | --- | --- |
 | [s-001.md](s-001.md) | 1. Short title and Amendment of Act 1 of 2021 |
 | [s-002.md](s-002.md) | 2. Insertion of new section 2A of the principal Act |
-| [s-002-a.md](s-002-a.md) | 2A. Application of jurisprudence of civil law |
 | [s-003.md](s-003.md) | 3. Insertion of new section 3A |
-| [s-003-a.md](s-003-a.md) | 3A. Accrued or lost rights |
 | [s-004.md](s-004.md) | 4. Amendment of article 3 |
 | [s-005.md](s-005.md) | 5. Amendment of article 157 (3) |
 | [s-006.md](s-006.md) | 6. Amendment of article 158 (1) |

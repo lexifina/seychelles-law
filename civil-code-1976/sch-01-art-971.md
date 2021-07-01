@@ -1,3 +1,0 @@
-# Article 971
-1. An authentic will shall be received by a single notary. However, if the testator is unable, either from ignorance or physical incapacity, to sign his or her name, the presence of a second notary or of two witnesses able to sign their names shall be necessary both for the reading and for the signing of the will.
-2. The testator shall be bound to make his mark on the will and the notary and witnesses or the two notaries, as the case may be, shall vouch that the mark is well and truly the mark of the testator affixed in their presence. If the testator is unable to make a mark the aforementioned notary and witnesses or two notaries shall vouch for that physical incapacity.

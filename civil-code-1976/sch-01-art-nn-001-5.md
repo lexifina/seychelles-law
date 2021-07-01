@@ -1,4 +1,0 @@
-# Article — 1247 - 1
-1. Where the application of the provisions of article 1247 would require payment to be made at a place other than the creditor's habitual residence at the time when the liability arose and the discharge of the liability would be rendered substantially more onerous in consequence thereof, the debtor may refuse to pay at such place.
-2. In the event of such refusal, the place of payment shall be the place of the creditor's habitual residence at the time when the liability arose, provided the debtor may defer payment at the place until the creditor shall have arranged for the payment to be received there by him or on his behalf.
-Nevertheless the creditor may designate another place in the State where the creditor had his habitual residence at the time when the liability arose at which, subject to paragraph 1 of the present article, payment shall be made by the debtor.

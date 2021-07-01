@@ -1,3 +1,0 @@
-# Article 760
-Natural children, whose father or mother, at the time of their conception, was married to another person, shall be entitled to succeed together with any legitimate children of that marriage; in that case, however, the share of each such natural child shall be one half of what it would have been if all the children of the deceased had been legitimate.
-The part of the share of each such natural child, which does not accrue to him by reason of the foregoing provisions of this article, shall accrue to the legitimate children of the marriage which is affected by the adultery; it shall be divided amongst the legitimate children of that marriage in proportion to their hereditary parts.

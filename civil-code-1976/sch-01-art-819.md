@@ -1,3 +1,0 @@
-# Article 819
-In the case of immovable property held in co-ownership, unless all the co-owners agree to postpone the sale, such property shall be sold. If the co-owners do not agree to a private sale, or if one of them is subject to an incapacity such as minority or interdiction or is absent from Seychelles and is not represented therein by a duly appointed agent, the property shall be sold at a public auction. In this respect, articles 1686, 1687 and 1688 of this Code relating to licitation shall have application.
-Nevertheless, even if one or more of the co-owners is subject to an incapacity as aforesaid, or is absent from Seychelles, the property may be sold otherwise than by a public auction with the permission of the Court.

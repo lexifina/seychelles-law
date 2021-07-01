@@ -1,2 +1,0 @@
-# Article 533
-The word movable used on its own in statutory provisions, or in a private document, without any other additions or designation, shall not include cash, precious stones, debts due, books, medals, scientific instruments, professional or trade tools, clothes, horses, vehicles, arms, grains, wines, hay and other produce; neither shall it include anything which forms part of the stock in trade.

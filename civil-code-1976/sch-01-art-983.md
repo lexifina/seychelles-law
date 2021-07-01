@@ -1,4 +1,0 @@
-# Article 983
-In all cases, the wills referred to in the two preceding articles shall be drawn up in duplicate original copies.
-If this form could not be complied with by reason of the physical condition of the testator, a certified copy of the will shall be drawn up, which will replace the second original copy; that certified copy shall be signed by the witnesses and by the participating officers. Mention shall be made of the reasons which have prevented the drawing up of the second original copy.
-As soon as communications are re-established, and within the shortest possible time-limit, the two original copies, or the original and the certified copy of the will, shall be dispatched, separately and by different messengers, under closed cover and sealed, to the headquarters for the purpose of being deposited with the notary indicated by the testator or, in the absence of such an indication, with the Registrar of the Supreme Court.

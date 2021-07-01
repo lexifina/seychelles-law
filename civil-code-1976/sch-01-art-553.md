@@ -1,2 +1,0 @@
-# Article 553
-All buildings, plantations and works on land or under the ground shall be presumed to have been made by the owner at his own cost and to belong to him unless there is evidence to the contrary; this rule shall not affect the rights of ownership that a third party may have acquired or may acquire by prescription, whether of a basement under a building in the ownership of another or of any other part of the building.

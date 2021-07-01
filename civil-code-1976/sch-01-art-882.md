@@ -1,2 +1,0 @@
-# Article 882
-The creditors of a co-partitioner of movable property may, for the purposes of preventing any fraud in the partition to the detriment of their rights, object to the partition being made in their absence; they may intervene at their expense, but they shall not be entitled to re-open a partition of movables which has been completed unless it took place in their absence and in spite of any objection they may have lodged.

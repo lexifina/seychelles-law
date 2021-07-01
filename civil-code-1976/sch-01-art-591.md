@@ -1,2 +1,0 @@
-# Article 591
-The usufructuary shall also have the benefit, provided always that he observes the seasons and the well established practice of the former owners, of such parts of a wood of full-grown trees which have been felled regularly, whether these cuttings take place at regular intervals, within a particular area of land or whether they related to a certain quantity of trees chosen indiscriminately from the whole area of the estate.

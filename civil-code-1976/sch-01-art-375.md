@@ -1,2 +1,0 @@
-# Article 375
-If the parents are unable to exercise any control over the child or young person they may apply to the Court for an order. The Court shall make such orders as it thinks fit in the circumstances, having regard to the interest of the child. The Court may also order that the parents should make an appropriate contribution to the maintenance of the child or young person; it may also give instructions regarding any property of the child.

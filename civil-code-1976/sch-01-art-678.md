@@ -1,2 +1,0 @@
-# Article 678
-A person shall not be entitled to a direct view or a window-view nor to balconies or other similar projections over the property of his neighbour, whether that property is enclosed or not, unless there is a distance of one metre ninety centimetres between the wall from which they hang and the said property; provided that the property or the part of the property over which the view extends is not already subject to a right of way for the advantage of the property that has the benefit which prevents the building of structures.

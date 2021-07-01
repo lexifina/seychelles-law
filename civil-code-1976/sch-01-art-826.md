@@ -1,2 +1,0 @@
-# Article 826
-Where a fiduciary wishes to proceed to the sale of property, he shall communicate to all those entitled a formal notice of the intended sale. The sale shall not take place until six months after such notice has been issued. However, the Court, upon application by a party may, on reasonable grounds, grant permission to sell the property earlier or later than the period of six months or without notice.

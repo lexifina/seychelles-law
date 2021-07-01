@@ -1,2 +1,0 @@
-# Article 228
-[repealed by Status of Married Women Act. Schedule 1]

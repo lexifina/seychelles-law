@@ -1,3 +1,0 @@
-# Article 331
-1. Illegitimate children are legitimated by the subsequent marriage of their parents, whether their descent is legally established before or after such marriage. The fact of such legitimation shall be noted in the margin of the act of birth of the child so legitimated.
-2. The provisions of paragraph 1 of this article shall also apply to illegitimate children born of parents whose subsequent marriage is authorised by the Chief Officer of Civil Status or the judge, as the case may be, agreeably with the provisions of sections 40, 45, 47(3) and 49(1) of the Civil Status Act, Cap. 34.

@@ -1,4 +1,0 @@
-# Article 612
-The person entitled to a usufruct either as a residuary legatee or a legatee by universal title shall be bound to contribute with the owner to the discharge of the debts as follows:
-The value of the property, subject to the usufruct, is calculated; the proportion of each contribution in then fixed according to such value.
-If the usufructuary advances the sum which the property must contribute, the capital shall be refunded to him without interest at the termination of the usufruct. If the usufructuary does not advance that sum, the owner may elect either to pay that sum, in which case the usufructuary shall pay him the interest thereon during the continuance of the usufruct, or to cause such property, subject to the usufruct, to be sold to the extent that is required for the discharge of the debt.

@@ -1,2 +1,0 @@
-# Article 559
-If a river or a stream suddenly sweeps off a considerable and identifiable part of a riparian field and carries it towards a field further down or to an opposite bank, the owner of the part which has been carried away may reclaim his property; but he must enter his claim within a year: after this period, such claim shall not be admitted unless the owner of the field which the part carried away has joined has not yet taken possession of it.

@@ -1,3 +1,0 @@
-# Article 459
-1. The sale shall take place by public auction in the presence of the guardian. The bids shall be received by the Court or by a notary appointed for the purpose. The sale shall be preceded by public notices published in three consecutive weeks in the Gazette.
-2. However, if it is an absolute necessity or a manifest advantage that the property be sold, it shall be lawful to sell the said property by notarial contract, provided that in the first instance such sale and the conditions thereof be sanctioned and approved by the Court. The guardian shall state his opinion as to the proposed sale and the Judge, if satisfied that such sale is in the interests of the minor, shall grant his authorisation.

@@ -1,3 +1,0 @@
-# Article — 915 - 1
-When a natural child whose father or mother was married at the time of conception to another person, becomes entitled to the succession of his parent along with the legitimate children of that marriage, he shall be taken into account in the calculation of the disposable portion; but his part of the reserve shall only be equal to one half of what he would have receive if all the children, including the natural child, had been legitimate.
-The fraction of his part of the reserve, which represents the reduction, shall accrue exclusively to the children of the marriage which has been affected by the adultery; it shall be divided in equal shares.

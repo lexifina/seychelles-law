@@ -1,2 +1,0 @@
-# Article 197
-Nevertheless, if in the case of articles 194 and 195 there are children born to two persons who have openly lived as husband and wife and who are both dead, the legitimacy of such children shall not be disputed merely on the ground that the certificate of marriage cannot be produced, provided that the legitimacy of the children is proved by the existence of marital status of the parents and is not disproved by a certificate of birth.

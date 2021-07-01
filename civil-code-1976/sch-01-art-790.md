@@ -1,2 +1,0 @@
-# Article 790
-So long as the right to accept has not been acquired by prescription against the heirs who have renounced, they shall be entitled to accept the succession, if it has not yet been accepted by other heirs; this, however, without prejudice to the rights which third parties may have acquired over the property of the inheritance, either through prescription or through validly executed transactions made with the Curator of the vacant estate.

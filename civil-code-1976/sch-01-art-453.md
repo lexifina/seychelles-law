@@ -1,2 +1,0 @@
-# Article 453
-As long as the father and mother have the personal and legal use of the property they are not bound to sell any movable furniture. If they decide to keep it, they shall return it in kind. In such case, they shall cause a proper valuation of such furniture to be made at their own expense by an expert, who shall be appointed by the Court and shall be sworn in by the Registrar of the Supreme Court. They shall pay the estimated value of all movables which they are unable to return in kind.

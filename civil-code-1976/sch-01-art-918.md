@@ -1,2 +1,0 @@
-# Article 918
-The value of full ownership of the property alienated, whether subject to a life annuity or absolutely or subject to a usufruct in favour of one of the persons entitled to take under the succession in the direct line, shall be set against the disposable portion; the excess, if any, shall be returned to the estate. This calculation and return shall not be demanded by other persons entitled to take under the succession in the direct line who have agreed to the alienation, and in no circumstances by those entitled in the collateral line.

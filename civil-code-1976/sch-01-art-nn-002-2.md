@@ -1,4 +1,0 @@
-# Article — 915 - 2
-1. Gifts inter vivos or will shall not exceed one half of the property if, in the absence of a child, the deceased leaves one or more ascendants in each of the paternal or maternal lines, and three-quarters if he leaves ascendants in one line only.
-The property thus reserved in favour of ascendants shall accrue to them in the order in which the law entitles them to inherit; they shall alone be entitled to this reserve in all cases in which sharing with the collaterals would not give them the portion of the property fixed by the reserve.
-2. When the natural child referred to in article 915-1 becomes alone entitled to the succession of his parent, or if he becomes so entitled along with other children of a marriage which is not affected by the adultery, the disposable portion in favour of any person other than the spouse protected shall be that of article 913.

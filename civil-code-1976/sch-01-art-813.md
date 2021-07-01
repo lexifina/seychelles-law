@@ -1,2 +1,0 @@
-# Article 813
-The Curator of a vacant estate shall be bound, first of all, to establish the condition of the estate in an inventory: he shall exercise and enforce any rights; he shall answer any claims brought against the estate; he shall administer the estate, subject to depositing with the Official Receiver for the purpose of preserving the same, any sums credited to the estate as well as any moneys representing the proceeds of the sale of movable or immovable property, and he shall also be subject to rendering accounts to any person having a lawful interest thereto.

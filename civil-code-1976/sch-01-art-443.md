@@ -1,4 +1,0 @@
-# Article 443
-Where any person convicted of an offence under any law is sentenced to a term of imprisonment exceeding five years, he shall cease to be eligible for appointment to the office of guardian, and if he holds such office, he shall forthwith be deprived thereof. He shall not be eligible to hold such office for a period of five years after the expiry of the sentence imposed.
-In other cases the Court may, on the application of any interested party or the Attorney-General, order that any person sentenced to imprisonment shall be excluded from holding such office or, as the case may be, deprived thereof:
-Provided that an application to deprive a person of such office shall be made within six months from the date of his conviction, and an application to exclude a person from holding such office shall be made within five years from the date of expiry of the sentence.

@@ -1,2 +1,0 @@
-# Article 962
-The gift shall likewise remain revoked, even if the donee had taken possession of the gift given and if it had not been taken away by the donor since the subsequent birth of the child; nevertheless the donee shall not be bound to restore the income he received, whatever its nature, until the day on which he is notified by a summons or other lawful notice of the birth of the child or of its legitimation by a subsequent marriage; and this, even if the demand to retake possession of the gift in subsequent to that notification.

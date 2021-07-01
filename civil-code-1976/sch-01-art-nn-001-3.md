@@ -1,2 +1,0 @@
-# Article — 1094 - 1
-The children or descendants may, notwithstanding any stipulation of the donor to the contrary, demand in respect of the property subject to the usufruct that an inventory be drawn up of all the movables and of the condition of the immovables, that the sums be invested, and that bearer securities, at the option of the usufructuary, be converted into registered securities or be deposited with an authorised depositary.

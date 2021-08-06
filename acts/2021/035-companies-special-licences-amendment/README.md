@@ -23,9 +23,6 @@ In force: 2021-08-06 (the day of its publication in the Gazette; the Act names n
 | [s-015.md](s-015.md) | 15. Amendment of section 17 |
 | [s-016.md](s-016.md) | 16. Amendment of section 18 |
 | [s-017.md](s-017.md) | 17. Insertion of new sections 18A, 18B, 18C and 18D |
-| [s-018-b.md](s-018-b.md) | 18B. Certificate of good standing |
-| [s-018-c.md](s-018-c.md) | 18C. Conversion of a relevant company into an international business company and vice-versa |
-| [s-018-d.md](s-018-d.md) | 18D. A relevant company to notify change in its shareholder, director or secretary to Authority |
 | [s-018.md](s-018.md) | 18. Repeal of section 19 |
 | [s-019.md](s-019.md) | 19. Amendment of section 20 |
 | [s-020.md](s-020.md) | 20. Substitution of section 22 |

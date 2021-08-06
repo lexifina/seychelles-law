@@ -1,0 +1,3 @@
+# Schedule
+
+(Sections 11, 12 and 13) FEE 1 2 3 Sl. No. Provisions of the Act and purpose Amount (in US$) 1. section 11(1)(b) Trustee appointment declaration registration fee (one off) $200 2. section 12(1) Filing of a notice of appointment of a Seychelles trustee $50 3. section 12(2) Filing of a notice of cessation of a Seychelles trustee $50 4. section 12(3) Filing of a notice of termination of a registered trust $50 5. section 13(2) $50 An inspection of the Register (per trust) 6. section 13(2) Obtaining a copy of any document available on inspection $1 (per page) 7. section 13(4) $75 Request of official search 8. Filing of any document (as required or permitted under $75 this Act) relating to a registered trust, other than as set out above in this Schedule

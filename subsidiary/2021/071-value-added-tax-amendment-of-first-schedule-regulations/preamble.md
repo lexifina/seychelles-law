@@ -1,0 +1,3 @@
+# Enacting formula
+
+In exercise of the powers conferred by section 52(1)(c) of the Value Added Tax Act, 2010,the Minister responsible for Finance makes the following Regulations —

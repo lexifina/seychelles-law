@@ -7,6 +7,4 @@ In force: 2021-09-15 (the day S.I. 78 of 2021, its (Commencement) Notice, appoin
 | File | Provision |
 | --- | --- |
 | [s-001.md](s-001.md) | 1. Short title and commencement |
-| [s-002.md](s-002.md) | 2. Amendment of Cap 20 |
-| [s-002-b.md](s-002-b.md) | 2B. Non-application of Section 2A to a place of business |
-| [s-002-c.md](s-002-c.md) | 2C. Closely related enterprises |
+| [s-002.md](s-002.md) | 2. Amendment of Cap 20 of Section 2A to a place of business enterprises |

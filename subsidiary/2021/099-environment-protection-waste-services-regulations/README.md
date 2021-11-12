@@ -21,11 +21,11 @@ In force: 2021-11-12 (the day of its publication in the Gazette; the instrument 
 | [s-012.md](s-012.md) | 12. Appeals to the Appeals Board |
 | [s-013.md](s-013.md) | 13. Offence and penalty |
 | [schedule-1.md](schedule-1.md) | Second Schedule |
-| [sch-01-art-0003-a.md](sch-01-art-0003-a.md) | 3A. Applies to green waste Plant remains , waste from forestry, free from foreign matter Non-compliance of waste in this |
-| [sch-01-art-0003-b.md](sch-01-art-0003-b.md) | 3B. Submit request using Waste from processing of meat , fish special waste form and other foods of animal origin , |
-| [sch-01-art-0003-c.md](sch-01-art-0003-c.md) | 3C. Applies to biodegradable waste free from foreign Not specified above: processed wood matter. Non-compliance of waste |
+| [sch-01-art-0003-a.md](sch-01-art-0003-a.md) | 3A. as Class 2 |
+| [sch-01-art-0003-b.md](sch-01-art-0003-b.md) | Article 3B |
+| [sch-01-art-0003-c.md](sch-01-art-0003-c.md) | 3C. as Class 2 SR2.00 for SEYPEC SR4.50 for Waste Oil Contractor plus SR2.00 for LWMA form FIRST weighed at Providence L |
 | [schedule-2.md](schedule-2.md) | Third Schedule |
 | [schedule-3.md](schedule-3.md) | Fourth Schedule |
-| [sch-03-art-0003-a.md](sch-03-art-0003-a.md) | 3A. Applies to green Plant remains , waste from waste free from forestry, landscaping, foreign matter private gardens. N |
-| [sch-03-art-0003-b.md](sch-03-art-0003-b.md) | 3B. Submit request Waste from processing of using special waste meat, fish and other foods form of animal origin, animal |
-| [sch-03-art-0003-c.md](sch-03-art-0003-c.md) | 3C. Applies to biodegradable Not specified above: waste free from processed wood paper and foreign matter. Non-complianc |
+| [sch-03-art-0003-a.md](sch-03-art-0003-a.md) | 3A. waste in this class is considered as Class 2 |
+| [sch-03-art-0003-b.md](sch-03-art-0003-b.md) | Article 3B |
+| [sch-03-art-0003-c.md](sch-03-art-0003-c.md) | 3C. Non-compliance of waste in this class is considered as Class 2 |

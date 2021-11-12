@@ -1,3 +1,3 @@
-# 3B. Submit request Waste from processing of using special waste meat, fish and other foods form of animal origin, animal remains or sludge
+# Article 3B
 
-PUTRESCENT WASTE Deep burial SCR500.00 Composting per Ton
+PUTRESCENT WASTE Deep burial Submit request Waste from processing of SCR500.00 Composting using special waste meat, fish and other foods per Ton form of animal origin, animal remains or sludge

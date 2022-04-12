@@ -1,0 +1,3 @@
+# Schedule 1
+
+(Regulation 5(1)) Form of Notice of Appeal Before the Appeals Board established under section 40 of the Physical Planning Act, 2022 Appellant: Respondent: The Planning Authority Case No: NOTICE OF APPEAL Take Notice that the Appellant appeals to the Appeals Board against the decision of the Planning Authority dated ........................ (copy attached) on the following grounds 1. ............ 2. ............ 3. ............ Dated this ..................... day of ..........................., 20 ........ Signed .................................... (Appellant) The address for service of the Appellant is ............................................ ————————

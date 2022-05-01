@@ -1,0 +1,3 @@
+# Schedule
+
+(Section 4) Financial Services Provider A licensee under the Financial Institutions Act. The Development Bank established under the Development Bank of Seychelles Decree. Housing Finance Company Limited. A credit union established under the Credit Union Act. A licensee under the Financial Leasing Act. A payment services provider and operator of a payment, clearing or settlement system under the National Payment System Act. A licensee under the Mutual Fund and Hedge Fund Act. A licensee under the Hire Purchase and Credit Sale Act. A licensee under the Securities Act. A licensee under the Insurance Act.

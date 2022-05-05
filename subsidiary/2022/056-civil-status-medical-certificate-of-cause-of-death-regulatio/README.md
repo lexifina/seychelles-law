@@ -13,12 +13,11 @@ In force: 2022-05-05 (the day of its publication in the Gazette; the instrument 
 | [schedule-1.md](schedule-1.md) | Schedule 1 |
 | [sch-01-art-0001.md](sch-01-art-0001.md) | Article 1 |
 | [sch-01-art-0004.md](sch-01-art-0004.md) | Article 4 |
-| [sch-01-art-0008.md](sch-01-art-0008.md) | 8. NUMBER |
-| [sch-01-art-0011.md](sch-01-art-0011.md) | 11. HOSPITAL Inpatient ER/Outpatient |
-| [sch-01-art-0013.md](sch-01-art-0013.md) | 13. Approximate time interval between onset and death I(a)Final disease or condition leading to death __________________ |
-| [sch-01-art-0014.md](sch-01-art-0014.md) | 14. Yes No Part I |
-| [sch-01-art-0016.md](sch-01-art-0016.md) | 16. _______________________________________ ______________ _______________________________________ Yes No ______________ |
-| [sch-01-art-0018.md](sch-01-art-0018.md) | 18. 19c. INJURY AT WORK? Natural Yes No Accident Suicide Homicide Pending investigation Could not be determined 21d. BIR |
+| [sch-01-art-0008.md](sch-01-art-0008.md) | Article 8 |
+| [sch-01-art-0011.md](sch-01-art-0011.md) | Article 11 |
+| [sch-01-art-0013.md](sch-01-art-0013.md) | Article 13 |
+| [sch-01-art-0014.md](sch-01-art-0014.md) | Article 14 |
+| [sch-01-art-0018.md](sch-01-art-0018.md) | Article 18 |
 | [sch-01-art-0021.md](sch-01-art-0021.md) | 21. 20a. IF FEMALE: |
-| [sch-01-art-0022.md](sch-01-art-0022.md) | 22. PHYSICIAN |
-| [sch-01-art-0024.md](sch-01-art-0024.md) | 24. NUMBER 25c. DATE |
+| [sch-01-art-0022.md](sch-01-art-0022.md) | Article 22 |
+| [sch-01-art-0024.md](sch-01-art-0024.md) | 24. NUMBER |

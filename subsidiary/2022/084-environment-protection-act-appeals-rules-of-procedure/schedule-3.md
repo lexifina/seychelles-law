@@ -1,0 +1,3 @@
+# Schedule 3
+
+[Regulation 6(1)] Notice of Mention The Appeals Board under the Environment Protection Act, 2016 ................................. Applicant Versus .................................... Respondent Cs No..................... TAKE NOTICE that the above case will be mentioned on the ......................... at .................... am/pm. You are hereby required to appear before the Environment Protection Appeals Board, located at the .................. building at Victoria on the above mentioned date and time. Dated this .................... day of 20 ........... SECRETATRY OF THE APPEALS BOARD To be served on: 1. XXXX MADE this 8th day of July, 2022. FLAVIEN JOUBERT MINISTER OF AGRICULTURE, CLIMATE CHANGE AND ENVIRONMENT ———————

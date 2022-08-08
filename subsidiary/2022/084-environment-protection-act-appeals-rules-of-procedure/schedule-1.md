@@ -1,0 +1,3 @@
+# Schedule 1
+
+(Regulation 4(1)) NOTICE OF APPEAL Before the Appeals Board established under section 73 of the Environment Protection Act, 2016 Take Notice that the Appellant appeals to the Appeals Board against the decision of the Respondent dated ........................... (copy attached) on the following grounds — 1. ............... 2. ............... 3. ............... Dated this .................... day of ....................., 20........ Signed .................................... (Appellant) The address for service of the Appellant is...................................................... ———————

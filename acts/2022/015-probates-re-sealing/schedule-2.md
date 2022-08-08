@@ -1,0 +1,3 @@
+# Schedule 2
+
+[Section 5(2)(b)] FORM 1 Notice of Appointment of Executor Notice is hereby given that on the [insert date], the Curator confirmed the grant of probate/letters of administration [insert details of the grant of probate/letters of administration] whereby [insert name] of [insert address] [insert identity number] was appointed/confirmed as executor or administrator of the estate of [insert name of the deceased and any alias] under section [insert section of ___ of the Probates (Re-sealing) Act, 2022, read with section 23(8) of the Curatelle Act] Dated this ........... day of ................., 20..... .................... Curator

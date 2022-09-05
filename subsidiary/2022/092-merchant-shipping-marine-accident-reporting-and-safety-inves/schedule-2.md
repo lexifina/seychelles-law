@@ -1,0 +1,9 @@
+# Second Schedule
+
+[Regulation 11] The IMO guidelines on the treatment of Seafarers — 1. The evidence shall be taken at the earliest practical opportunity; 2. The seafarer shall be allowed to return to his or her ship, or be repatriated at the earliest possible opportunity; 3. The seafarers human rights shall, at all times, be upheld; 4. All seafarers from whom evidence is sought shall be informed of the nature and basis of the marine safety investigation; and 5. A seafarer from whom evidence is sought shall be allowed access to legal advice, regarding —
+
+(a) any potential risk that he may incriminate himself in any proceedings subsequent to the marine safety investigation;
+
+(b) any right not to self-incriminate or to remain silent; and
+
+(c) any protection afforded to him to prevent the evidence being used against himself if he provides the evidence to the marine safety investigation. Marine Safety records that shall not be disclosed in any criminal, civil, disciplinary or administrative proceedings — 1. All declarations or statements taken from persons by an investigator or supplied to an investigator in the course of an investigation, together with any notes or recordings of witness interviews; 2. Medical or confidential information regarding persons involved in an accident; 3. Any report made under regulation 6 (4); 4. Copies of the report other than the final report; 5. All correspondence received by the Board from parties involved in a safety investigation; 6. Evidence from voyage data recorders; 7. The notes made by an investigator, whether written or held electronically along with any recordings or photographs; 8. All communications between persons having been involved in the operation of the ship or ships; and 9. The investigator's opinions expressed in the analysis of information. MADE this 29th day of August, 2022. ANTONY DERJACQUES MINISTER OF TRANSPORT ———————

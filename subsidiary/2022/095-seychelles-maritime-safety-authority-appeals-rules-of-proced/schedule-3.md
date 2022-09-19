@@ -1,0 +1,3 @@
+# Schedule 3
+
+[Regulation 6(1)] The Appeals Board of the Seychelles Maritime Safety Authority Notice of Mention ................................. Applicant Versus ............................... Respondent Cs No..................... TAKE NOTICE that the above case will be mentioned on the ...................... at .................... am/pm. You are hereby required to appear before the Seychelles Maritime Safety Authority Appeals Board, located at the ................. building at Victoria on the above mentioned date and time. Dated this .................. day of 20 .............. SECRETATRY OF THE APPEALS BOARD To be served on: 1. XXXX MADE this 15th day of September, 2022. ANTONY DERJAQUES MINISTER OF TRANSPORT ———————

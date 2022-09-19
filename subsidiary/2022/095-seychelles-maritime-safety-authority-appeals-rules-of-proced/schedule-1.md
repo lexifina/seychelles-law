@@ -1,0 +1,3 @@
+# Schedule 1
+
+[Regulation 4(1)] Form of Notice of Appeal Before the Appeals Board established under section 11 of the Seychelles Maritime Safety Authority Act, 2019 Appellant: Respondent: Seychelles Maritime Safety Authority Case No: NOTICE OF APPEAL Take Notice that the Appellant appeals to the Appeals Board against the decision of the Seychelles Maritime Safety Authority dated .......................... (copy attached) on the following grounds — 1. ............... 2. ............... 3. ............... Dated this .................. day of ........................., 20......... Signed ................................ (Appellant) The address for service of the Appellant is ...................................................

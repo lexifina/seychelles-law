@@ -1,3 +1,3 @@
-# Schedule Vi
+# Schedule V
 
-List ofAfrican Continental Free Trade Area (AfCFTA) Member States
+LIST OF EUROPEAN UNION MEMBER STATES AND EASTERNS AND SOUTHERN AFRICAN MEMBER STATES FORMING

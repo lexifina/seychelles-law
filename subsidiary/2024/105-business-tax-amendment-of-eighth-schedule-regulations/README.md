@@ -9,4 +9,3 @@ In force: 2023-01-01 (the day from which it is deemed to have come into operatio
 | [preamble.md](preamble.md) | Enacting formula |
 | [s-001.md](s-001.md) | 1. Citation and commencement |
 | [s-002.md](s-002.md) | 2. Amendment of S.I. 134 of 2022 |
-| [s-003.md](s-003.md) | 3. “End date of special tax rate |

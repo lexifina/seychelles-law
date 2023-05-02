@@ -1,0 +1,3 @@
+# Schedule 1
+
+(Section 11) OMITTED LAWS The following laws may be omitted from a revised edition of the laws of Seychelles — 1. Any Appropriation Act or Supplementary Appropriation Act; 2. Enactments of a temporary nature, limited application or under revision; 3. All provisions prescribing the date when, or manner in which, any written law or part of the written law will come into operation, where such omission can, in the Law Commissioners' opinion, conveniently be made; 4. All enactments which are expressly repealed; 5. Any enactment authorizing the raising or guaranteeing of a specific loan.

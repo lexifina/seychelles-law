@@ -1,0 +1,3 @@
+# Schedule 2
+
+(Section 66) RULES RELATING TO BOARD MEETINGS

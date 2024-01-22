@@ -1,0 +1,3 @@
+# Schedule
+
+The area is described as an area 39,668 square metres assigned to Parcel V11680, an area 1,506 square metres assigned to parcel V8876, an area 1,060 square metres assigned to Parcel V12003, an area 1,020 square metres assigned to Parcel V12002, an area 287 square metres assigned to Parcel V9839, an area 22,679 square metres assigned to Parcel V7706, an area 1,689 square metres assigned to Parcel V7707 and an area 1,135 square metres assigned to Parcel V6374 located at Fishing Port Victoria under the administration of the Government of Seychelles. MADE this 15th day of January, 2024. NAADIR HASSAN MINISTER OF FINANCE, NATIONAL PLANNING AND TRADE ———————

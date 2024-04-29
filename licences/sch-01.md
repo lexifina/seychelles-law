@@ -1,5 +1,4 @@
 # Schedule
-Part I
 1. Keeping a Cafe;
 2. Providing Catering Services;
 3. Keeping a Hotel;
@@ -13,8 +12,6 @@ Part I
 11. Public Bar;
 12. Members Club Licence;
 13. Lapire/Baka Licence
-14. Dive Centre
-15. Dive Operator
 16. Hairdresser
 17. Beautician
 18. Labour Contractor
@@ -23,19 +20,7 @@ Part I
 21. Import/Wholesale/Retail
 22. Hirer of self-drive Public Omnibus
 23. Storage and Retail of Petroleum Products
-24. Operator of Casino
 25. Licensing of Drivers
 26. Registration
 27. Use of Vehicles on Public Roads
 28. Operator of Sports Entertainment
-Part II
-Licences (Accommodation, Catering and Entertainment Establishment) Regulations, 2001
-Licences (Manufacturing) Regulations, 1999
-Licences (Liquor and Out-Door Entertainment) Regulations, 1998
-Licences (Diving Business) Regulations, 1991
-Licences (Miscellaneous Services) Regulations, 2000
-Licences (Trades) Regulations, 1987, amended in 1992
-Licences (Petroleum Storage and Sale) Regulations, 1987
-Licences (Casino) Regulations, 1987 amended in 1994
-Licences (Gaming Machines) Regulations, 1994
-Licences (Game of Chance) Regulations, 1994

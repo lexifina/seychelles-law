@@ -1,0 +1,3 @@
+# Third Schedule
+
+[Regulation 6(1)] The Appeals Board under the Public Health Authority Act, 2013 Notice of Mention .............................. Applicant Versus .............................. Respondent Cs No..................... TAKE NOTICE that the above case will be mentioned on the ............................ at .................... am/pm. You are required to appear before the Public Health Appeals Board, located at the ................... building, Victoria, Mahe, on the above mentioned date and time. Dated this ................. day of ............................., .............. SECRETARY OF THE APPEALS BOARD To be served on: 1. XXXX MADE this 3rd day of July, 2024. PEGGY VIDOT MINISTER OF HEALTH ———————

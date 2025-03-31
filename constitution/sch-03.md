@@ -8,12 +8,18 @@ Subject to paragraph 6, the President shall be directly elected by secret ballot
 (b) the person deposits with the Electoral Commission, or gives security to the satisfaction of the Electoral Commission for the payment of such sum as may be prescribed under an Act as the amount to be deposited by a person who is a Candidate to the election for the office of President.
 (2) Where a person receives less than 5% of the votes cast at the election for the office of President in respect of which the person is standing as a candidate, the person shall forfeit to the Republic the sum deposited or in respect of which security was given in subparagraph (1)(b).
 3. Withdrawal of candidate
-(1) Subject to article 52A(4)(b), a person nominated as candidate for election to the office of President may withdraw the nomination at any time before the day appointed for the election by notice in writing to the Electoral Commission.
+(1) A person nominated as candidate for election to the office of President may withdraw the nomination at any time before the day appointed for the election by notice in writing to the Electoral Commission.
 (2) A person who, within such period as may be provided by law, withdraws as candidate under subparagraph (1) shall be refunded the deposit or returned the security for the deposit referred to in paragraph 2(1)(b).
-4. Time of Presidential election
-An election to the office of President shall be held so as to begin—
-(a) where the President is in office after the beginning of the period of four months ending on the date when the President's term of office expires by the effluxion of time, during the first three months of that period; and
-(b) in any other case, during the period of three months beginning with the date when the office became vacant or a Proclamation under article 52A was made.
+4. Time of presidential election
+An election to the office of the President shall be held—
+(1) (a) on the Saturday in the fifth week prior to the expiration of the term of the President; or
+(b) in the circumstances contemplated in article 55.
+(2) Without prejudice to sub-paragraph (1) or any other provision of this Constitution, the President shall continue in office and shall cease to hold office on the date of the expiry of the President's 5-year term, or such lesser period in case the President assumes the office under article 55.
+(3) The President-elect, irrespective of whether the incumbent President or not, shall take oath and assume office on the date next following the expiry date referred to in sub-paragraph (2).
+(4) Notwithstanding sub-paragraph (1), the Electoral Commission may, by notice published in the Gazette at least 30 days prior to the date of the election, order that elections be held on any one or more days prior to that date for any category of persons or in any specified part of Seychelles, as provided for by an Act in accordance with the provisions of that Act.
+(5) On the date of the declaration of the President-elect, the Electoral Commission shall declare the date of the next Presidential election and within 30 days of such declaration publish a written declaration in the Gazette.
+4A. Date of holding next Presidential Election
+The election to the office of the President after the passing of this Act shall be 27th September 2025.
 5. Minimum percentage of votes for election of President
 Subject to paragraphs 6 and 7, a person shall not be elected to is office of President unless he has received more than fifty percent of the votes in the election and the necessary number of ballots may, subject to the election being discontinued and recommenced in accordance with an Act, be held in accordance with the direction of the Electoral Commission to achieve that result.
 6. Sole Presidential candidate

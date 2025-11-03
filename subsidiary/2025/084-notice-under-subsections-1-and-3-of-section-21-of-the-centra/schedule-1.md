@@ -1,0 +1,3 @@
+# Schedule
+
+Denomination Design Form Security features Obverse Reverse Colour Size Substrate Obverse Reverse (Front) (Back) (Front) (Back) SCR500 Seychelles Seychelles Yellow, 144 x 72 100 Holographic Fluorescent Kestrel Scops-Owl Brown millimetres percent stripe Lithographic (Katiti) (Syer) and cotton print Black fibre cotton Windowed Horne’s Seychelles Thread Pandanus Tiger (Vakwa Chameleon parasol) (Kanmeleon) Hawksbill Wild Turtle Bilimbi (Kare) (Bilenbi maron) SCR 500: Obverse (Front) SCR 500: Reverse (Back) MADE this 23rd day of October, 2025. CAROLINE ABEL GOVERNOR CENTRAL BANK OF SEYCHELLES ———————

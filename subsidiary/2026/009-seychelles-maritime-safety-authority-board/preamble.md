@@ -1,0 +1,3 @@
+# Enacting formula
+
+In exercise of the powers conferred by section 5 of the Seychelles Maritime Safety Authority Act, 2020, the President hereby appoints the following persons to the Board of the Seychelles Maritime Safety Authority, for a period of three years with effect from the 15th February, 2026 — Mr. Andre Ciseau — Chairperson Brig. Gen Jean Atala — Vice-Chairperson Capt. Peshala Medagama — Member Mrs. Dericka Arrisol — Member Mr. Chrissant Barbe — Member Ms. Veronica Bristol — Member Insp. Andrew Sinon — Member Capt. Daniel Adam — CEO/ex-officio Member Dated this 15th day of February, 2026. DR. PATRICK HERMINIE PRESIDENT ———————

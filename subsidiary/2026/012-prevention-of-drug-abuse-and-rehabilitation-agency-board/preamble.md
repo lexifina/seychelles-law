@@ -1,0 +1,3 @@
+# Enacting formula
+
+In exercise of the powers conferred by section 6 of the Prevention of Drug Abuse and Rehabilitation Agency Act, 2025 (Act 21 of 2025) the President has appointed the following persons to the Board of the Prevention of Drug Abuse and Rehabilitation Agency, for a period of five years, effective from 16th February, 2026 — Mr. Benjamin Vel — Chairperson Mr. Michel Pierre — Vice-Chairperson Dr. Lisa Kissubi-Chang-Time — Member Mrs. Marcelle Hoareau — Member Mrs. Beryl Payet — Member Mr. John Ondiek — Member Mr. John Banane — Member Dated this 6th day of March, 2026. DR. PATRICK HERMINIE PRESIDENT _____________

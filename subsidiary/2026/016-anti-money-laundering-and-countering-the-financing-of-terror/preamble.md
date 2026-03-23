@@ -1,0 +1,3 @@
+# Enacting formula
+
+In the exercise of the powers conferred by section 14(5) of the Anti-Money Laundering and Countering the Financing of Terrorism Act, 2020, the President appoints a Selection Committee consisting of the following persons to recommend the names of suitable persons for appointment as Director and Deputy Director of Financial Intelligence Unit — Mr. Peter Sinon — Representative from the Ministry of Finance Mr. Pascal Morin — Representative from the Financial Services Authority Mr. Jemmy Bouzin — Representative from Seychelles Police Force MADE this 16th day of March, 2026. DR. PATRICK HERMINIE PRESIDENT ———————

@@ -1,0 +1,3 @@
+# Enacting formula
+
+In exercise of the powers conferred by sections 7 and 8 of the Seychelles Meteorology Act, 2015, the President hereby appoints the following persons to the Board of the Seychelles Meteorological Authority, for a period of three years with effect from the 1st February, 2026 — Mr Gerard Hoareau — Chairperson Ms. Veronica Bristol — Vice-Chairperson Mr. Justin Prosper — Member Ms. Ruth Pool — Member Mr. David Labrosse — Member Mr. Ronny Alcindor — Member Mr. Wills Agricole — Member Mr. Vincent Amelie — CEO (ex-officio Member) Dated this 17th day of March, 2026. DR. PATRICK HERMINIE PRESIDENT ———————

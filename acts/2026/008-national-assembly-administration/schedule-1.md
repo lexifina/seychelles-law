@@ -1,0 +1,3 @@
+# First Schedule
+
+Official Oath (Section 44) I ________________________________________ do swear that I will be faithful and bear true allegiance to the Constitution of Seychelles and that I will preserve, protect and defend the Constitution of Seychelles SO HELP ME GOD. I _______________________________________ do swear that I will not directly or indirectly reveal such matters as shall be brought under my consideration or shall be made known to me as ____________________________ except as may be required in the discharge of my duties as such or with the authority of the Commission. SO HELP ME GOD.

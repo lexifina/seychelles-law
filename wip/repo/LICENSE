@@ -1,0 +1,23 @@
+The legal texts come from SeyLII, Seychelles Legal Information Institute (Laws.Africa Peachjam platform, read through the Internet Archive):
+
+  SeyLII, https://seylii.org, point-in-time versions of each act, read from archived copies of its
+  pages on the Internet Archive (https://web.archive.org), retrieved 2026-10-28.
+
+Licence and terms, as SeyLII states them: CC BY-NC 4.0, crediting SeyLII as the source (SeyLII terms of use, s. 9, archived https://web.archive.org/web/20260301144011id_/https://seylii.org/terms-of-use/).
+CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Attribution:
+
+  Source: SeyLII (https://seylii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0).
+
+The texts may be used only for non-commercial purposes. This repository is private; whether and how it
+may be published is the owner's decision under these terms.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per
+line; spacing, quotes and dashes were normalised; editorial notes, Part and Chapter headings were left out;
+and the versions were arranged as git commits credited to the laws SeyLII names for each change.
+The wording of the law was not changed. Neither SeyLII nor Laws.Africa endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

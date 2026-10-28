@@ -1,0 +1,11 @@
+{
+  "path": "sc",
+  "code": "SC",
+  "name": "Seychelles",
+  "level": "country",
+  "repo": "https://github.com/lexifina/seychelles-law",
+  "build": "built: Constitution of the Republic of Seychelles (14 versions, 1993-06-21 to 2025-07-04); Civil Status Act (4 versions, 2015-12-31 to 2022-11-01)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 2
+}

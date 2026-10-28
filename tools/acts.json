@@ -1,0 +1,85 @@
+{
+ "retrieved": "2026-10-28",
+ "lii": {
+  "name": "SeyLII",
+  "hosts": [
+   "seylii.org"
+  ],
+  "cc": "sc",
+  "path_prefixes": [
+   ""
+  ],
+  "listing": false
+ },
+ "country": {
+  "code": "SC",
+  "name": "Seychelles",
+  "slug": "seychelles",
+  "lang": "en",
+  "tz": "Indian/Mahe",
+  "future_branch": "future",
+  "publisher": {
+   "name": "SeyLII",
+   "email": "seylii@seylii.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Not applied: every version is dated by SeyLII's own expression date, the day the amendment it incorporates took effect as SeyLII (Laws.Africa) records it. No date is computed from a default rule.",
+   "source": "https://web.archive.org/web/20260218091524id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2025-07-04"
+  },
+  "licence_note": "Source: SeyLII (https://seylii.org), licensed under the Creative Commons Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0)."
+ },
+ "sources": [
+  {
+   "name": "SeyLII, Seychelles Legal Information Institute (Laws.Africa Peachjam platform, read through the Internet Archive)",
+   "url": "https://seylii.org",
+   "retrieved": "2026-10-28",
+   "requests": "count",
+   "licence": "CC BY-NC 4.0, crediting SeyLII as the source (SeyLII terms of use, s. 9, archived https://web.archive.org/web/20260301144011id_/https://seylii.org/terms-of-use/)",
+   "notes": "Point-in-time expressions of each act, /akn/sc/act/<work>/eng@<date>. In 2026 SeyLII moved from Peachjam to Lexum's Decisia/Norma platform, so these Peachjam pages exist only as Internet Archive captures; each version is read from the newest archived copy of its own expression page (raw id_ form), with the capture timestamp and sha256 pinned in sources.json. The request count covers every archive.org request (CDX and pages)."
+  },
+  {
+   "name": "Internet Archive Wayback Machine",
+   "url": "https://web.archive.org",
+   "retrieved": "2026-10-28",
+   "requests": null,
+   "licence": "Archived copies of SeyLII pages; the content licence is SeyLII's",
+   "notes": "CDX API for discovery, then https://web.archive.org/web/<timestamp>id_/<original url> for the page bytes, through scripts/gitlaw_common/wayback.py (one adaptive request rate for the whole machine). Common Crawl's index did not connect from this machine on 2026-10-28, so no Common Crawl copy is used."
+  }
+ ],
+ "acts": [
+  {
+   "work": "si/1993/38",
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Seychelles",
+   "label": "Constitution of 1993",
+   "skip": {
+    "2020-06-01": "SeyLII's 2020-06-01 expression is its 2020 consolidation, keyed as a separate text: it marks every article up as a section, gives 97 articles different wording from both the 2018 and the 2022 expressions (spelling such as naturalization/naturalisation, dropped words such as 'if' in art. 13(1)(b), and headings such as 'Declaration of Authority' for art. 1), and SeyLII's next expression (2022-06-20) is built on the 2018 text, not on it. Taking it in would show 185 articles changing and changing back with no law behind either change, so it is left out; the 2022-06-20 version follows the 2018-08-23 version directly, and differs from it only in arts. 50, 162 and 163, each of which SeyLII's own note credits to Act 13 of 2022."
+   }
+  },
+  {
+   "work": "1883/4",
+   "slug": "civil-status",
+   "short": "Civil Status Act",
+   "title": "Civil Status Act",
+   "label": "Civil Status Act (1883)"
+  },
+  {
+   "work": "2010/23",
+   "slug": "licences",
+   "short": "Licences Act",
+   "title": "Licences Act, 2010",
+   "label": "Act 23 of 2010",
+   "part": "50-licences",
+   "held_back": "its latest SeyLII expression (2024-04-29) does not match the Licences (Amendment) Act, 2024 (Act 2 of 2024) as printed in the Supplement to the Official Gazette of 29 April 2024 (gazette.sc, text layer): in the definition of \"fixed penalty\" SeyLII reads \"regulation made under this Act\" and \"by payment of the fixed penalty\" where the Act inserts \"regulations made under this Act\" and \"on payment of the fixed penalty\", and the definition of \"Minister\" ends \"responsible for investment and;\" where the Act has \"responsible for Investment; and\". Every other provision Act 2 of 2024 inserts or substitutes (ss. 1A, 20(1), 22A, 28A, 30(2)-(3), the Schedule) matches word for word. Today's text is therefore not verified as the official text, and the act stays off main until it is."
+  }
+ ],
+ "decisions": [
+  "SeyLII files the Constitution of 1993 as /akn/sc/act/si/1993/38; every one of its 15 expressions (1993-06-21 to 2025-07-04) has an Internet Archive copy, so each version is read from its own dated expression. In 2023-24 SeyLII also showed the Constitution at /akn/sc/act/1994/7 (2 expressions), a number it later gave to the First Amendment Act 1994; those pages are not used.",
+  "The Constitution as adopted in 1993 is credited as kind 'law' (SeyLII files it among its Acts, in the S.I. series); the commit names it 'Constitution of 1993'. No referendum or assent date is taken from outside the source.",
+  "Licence and terms: SeyLII licensed its content CC BY-NC 4.0 with attribution, and its terms of use (archived 2026-03-01) prohibit scraping and bulk downloading; its robots.txt sends Content-Signal ai-train=no and disallows ClaudeBot and other AI crawlers. No SeyLII document page was fetched: every version is read from the Internet Archive's copy, for the configured acts only. The user decided on 2026-10-28 that reading these archived copies is acceptable (relayed by the coordinator: \"scraping wayback is fair game, dont overdo it\"). The repository stays private; CC BY-NC allows only non-commercial use. No legal text was given to a model."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch.py and the configuration and chose the acts. No model wrote, summarised or transformed legal text: parse.py is deterministic code (the shared adapter scripts/africa-law/peachjam.py)."
+ ]
+}

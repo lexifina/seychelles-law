@@ -157,16 +157,6 @@
    "via": "wayback"
   }
  },
- "check": {
-  "acts": 3,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 22
- },
  "fidelity": {
   "civil-status@2015-12-31": {
    "text_outside_units_chars": 0,
@@ -414,5 +404,12 @@
     "2019-03-04"
    ]
   }
+ },
+ "rebuild": {
+  "commits": 19,
+  "history_tip": "3cefe1d7c8dd187cd23788959caeb4303b478077",
+  "identical": true,
+  "main_identical": true,
+  "tags": 33
  }
 }

@@ -10,7 +10,6 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: | --- |
 | `constitution/` | [Constitution of the Republic of Seychelles](https://seylii.org/akn/sc/act/si/1993/38) | 14 | 1993-06-21 to 2025-07-04 |
 | `civil-status/` | [Civil Status Act](https://seylii.org/akn/sc/act/1883/4) | 4 | 2015-12-31 to 2022-11-01 |
-| `licences/` | [Licences Act, 2010](https://seylii.org/akn/sc/act/2010/23) | 4 | 2017-07-05 to 2024-04-29 |
 
 **Constitution of the Republic of Seychelles**
 
@@ -39,15 +38,6 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | 2021-07-01 | Act 24 of 2021; publisher (SeyLII): 1 provision(s) unexplained |
 | 2022-06-01 | Act 45 of 2021 |
 | 2022-11-01 | Act 45 of 2021 |
-
-**Licences Act, 2010**
-
-| In force | Author |
-| --- | --- |
-| 2017-07-05 | publisher (SeyLII): oldest version available |
-| 2019-03-04 | Statutory Instrument 9 of 2019 |
-| 2021-12-20 | Act 60 of 2021 |
-| 2024-04-29 | Act 2 of 2024 |
 
 Each folder's `README.md` lists every provision, how often it changed and when.
 
@@ -95,6 +85,13 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **Headings above the provision** (Part, Chapter, Division) are left out; each file starts with its own number and heading. Footnotes are kept at the end of the file.
 - **Amendments not yet applied.** Where the LII lists an amendment as not yet applied to its consolidated text, it is not in this history; REPRODUCE.md lists each one.
 - **No OCR.** Acts the LII shows only as scanned PDFs are not included.
+
+## Seychelles notes
+
+- **Checked against the Gazette.** The current text of the Constitution's last three amendments (Act 13 of 2022, Act 14 of 2024, Act 6 of 2025) and of every provision the Civil Status (Amendment) Act, 2021 (Act 45 of 2021) inserts or substitutes was compared with those Acts as printed in the Supplement to the Official Gazette (gazette.sc, PDFs with a text layer). They match word for word; the only differences are two full stops (Civil Status Act s. 87(3) lacks the Gazette's final full stop, and Schedule 3 para. 4(4) of the Constitution has one the Gazette lacks) and a stray "rs." printed in the Gazette copy of Act 45 of 2021.
+- **The Constitution's 2020 consolidation is left out.** SeyLII's 2020-06-01 expression is a separately keyed text that rewords 97 articles and is not the base of its next expression (2022-06-20); the 2022 version follows the 2018 version directly (see REPRODUCE.md, decisions).
+- **The Licences Act, 2010 is not in this branch yet.** Its latest SeyLII expression differs in a few words from the Licences (Amendment) Act, 2024 as gazetted, so it is held back until its text is verified.
+- **Repealed subprovisions are absent.** Where SeyLII prints only a number and an editorial note ("(8) [clause (8) ... repealed by ...]"), the line is left out.
 
 ## How it is built
 

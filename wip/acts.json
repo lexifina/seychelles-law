@@ -52,7 +52,24 @@
    "slug": "constitution",
    "short": "Constitution",
    "title": "Constitution of the Republic of Seychelles",
-   "label": "Constitution of 1993"
+   "label": "Constitution of 1993",
+   "skip": {
+    "2020-06-01": "SeyLII's 2020-06-01 expression is its 2020 consolidation, keyed as a separate text: it marks every article up as a section, gives 97 articles different wording from both the 2018 and the 2022 expressions (spelling such as naturalization/naturalisation, dropped words such as 'if' in art. 13(1)(b), and headings such as 'Declaration of Authority' for art. 1), and SeyLII's next expression (2022-06-20) is built on the 2018 text, not on it. Taking it in would show 185 articles changing and changing back with no law behind either change, so it is left out; the 2022-06-20 version follows the 2018-08-23 version directly, and differs from it only in arts. 50, 162 and 163, each of which SeyLII's own note credits to Act 13 of 2022."
+   }
+  },
+  {
+   "work": "1883/4",
+   "slug": "civil-status",
+   "short": "Civil Status Act",
+   "title": "Civil Status Act",
+   "label": "Civil Status Act (1883)"
+  },
+  {
+   "work": "2010/23",
+   "slug": "licences",
+   "short": "Licences Act",
+   "title": "Licences Act, 2010",
+   "label": "Act 23 of 2010"
   }
  ],
  "decisions": [

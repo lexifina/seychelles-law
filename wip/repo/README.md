@@ -8,7 +8,9 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
-| `constitution/` | [Constitution of the Republic of Seychelles](https://seylii.org/akn/sc/act/si/1993/38) | 15 | 1993-06-21 to 2025-07-04 |
+| `constitution/` | [Constitution of the Republic of Seychelles](https://seylii.org/akn/sc/act/si/1993/38) | 14 | 1993-06-21 to 2025-07-04 |
+| `civil-status/` | [Civil Status Act](https://seylii.org/akn/sc/act/1883/4) | 4 | 2015-12-31 to 2022-11-01 |
+| `licences/` | [Licences Act, 2010](https://seylii.org/akn/sc/act/2010/23) | 4 | 2017-07-05 to 2024-04-29 |
 
 **Constitution of the Republic of Seychelles**
 
@@ -25,10 +27,27 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | 2016-10-16 | Act 4 of 2016 |
 | 2017-04-19 | Act 5 of 2017 |
 | 2018-08-23 | Act 8 of 2018 |
-| 2020-06-01 | publisher (SeyLII): 363 provision(s) unexplained |
 | 2022-06-20 | Act 13 of 2022 |
 | 2025-03-31 | Act 14 of 2024 |
 | 2025-07-04 | Act 6 of 2025 |
+
+**Civil Status Act**
+
+| In force | Author |
+| --- | --- |
+| 2015-12-31 | publisher (SeyLII): oldest version available |
+| 2021-07-01 | Act 24 of 2021; publisher (SeyLII): 1 provision(s) unexplained |
+| 2022-06-01 | Act 45 of 2021 |
+| 2022-11-01 | Act 45 of 2021 |
+
+**Licences Act, 2010**
+
+| In force | Author |
+| --- | --- |
+| 2017-07-05 | publisher (SeyLII): oldest version available |
+| 2019-03-04 | Statutory Instrument 9 of 2019 |
+| 2021-12-20 | Act 60 of 2021 |
+| 2024-04-29 | Act 2 of 2024 |
 
 Each folder's `README.md` lists every provision, how often it changed and when.
 

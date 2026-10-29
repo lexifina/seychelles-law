@@ -1,5 +1,37 @@
 {
  "acts": {
+  "civil-status": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2015-12-31",
+    "units": 167
+   },
+   {
+    "changed": 41,
+    "credited": 40,
+    "from": "2021-07-01",
+    "units": 167
+   },
+   {
+    "changed": 46,
+    "credited": 46,
+    "from": "2022-06-01",
+    "units": 172
+   },
+   {
+    "changed": 8,
+    "credited": 8,
+    "from": "2022-11-01",
+    "units": 172
+   }
+  ],
+  "civil-status:archive": {
+   "captured": "20250803082419",
+   "history_after_last": [],
+   "last_version": "2022-11-01",
+   "via": "wayback"
+  },
   "constitution": [
    {
     "changed": 0,
@@ -68,14 +100,8 @@
     "units": 185
    },
    {
-    "changed": 363,
-    "credited": 0,
-    "from": "2020-06-01",
-    "units": 186
-   },
-   {
-    "changed": 363,
-    "credited": 363,
+    "changed": 3,
+    "credited": 3,
     "from": "2022-06-20",
     "units": 185
    },
@@ -91,19 +117,81 @@
     "from": "2025-07-04",
     "units": 185
    }
-  ]
+  ],
+  "constitution:archive": {
+   "captured": "20260218091524",
+   "history_after_last": [],
+   "last_version": "2025-07-04",
+   "via": "wayback"
+  },
+  "licences": [
+   {
+    "changed": 0,
+    "credited": 0,
+    "from": "2017-07-05",
+    "units": 32
+   },
+   {
+    "changed": 1,
+    "credited": 1,
+    "from": "2019-03-04",
+    "units": 32
+   },
+   {
+    "changed": 1,
+    "credited": 1,
+    "from": "2021-12-20",
+    "units": 33
+   },
+   {
+    "changed": 9,
+    "credited": 9,
+    "from": "2024-04-29",
+    "units": 36
+   }
+  ],
+  "licences:archive": {
+   "captured": "20250914232449",
+   "history_after_last": [],
+   "last_version": "2024-04-29",
+   "via": "wayback"
+  }
  },
  "check": {
-  "acts": 1,
+  "acts": 3,
   "backwards": 0,
   "future_dated": 0,
   "merges": 0,
   "mismatches": 0,
   "missing_in_force": 0,
   "trailer_errors": 0,
-  "versions": 15
+  "versions": 22
  },
  "fidelity": {
+  "civil-status@2015-12-31": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 167,
+   "units_differing": []
+  },
+  "civil-status@2021-07-01": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 167,
+   "units_differing": []
+  },
+  "civil-status@2022-06-01": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 172,
+   "units_differing": []
+  },
+  "civil-status@2022-11-01": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 172,
+   "units_differing": []
+  },
   "constitution@1993-06-21": {
    "text_outside_units_chars": 0,
    "text_outside_units_sample": "",
@@ -170,12 +258,6 @@
    "units": 185,
    "units_differing": []
   },
-  "constitution@2020-06-01": {
-   "text_outside_units_chars": 0,
-   "text_outside_units_sample": "",
-   "units": 186,
-   "units_differing": []
-  },
   "constitution@2022-06-20": {
    "text_outside_units_chars": 0,
    "text_outside_units_sample": "",
@@ -193,11 +275,35 @@
    "text_outside_units_sample": "",
    "units": 185,
    "units_differing": []
+  },
+  "licences@2017-07-05": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 32,
+   "units_differing": []
+  },
+  "licences@2019-03-04": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 32,
+   "units_differing": []
+  },
+  "licences@2021-12-20": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 33,
+   "units_differing": []
+  },
+  "licences@2024-04-29": {
+   "text_outside_units_chars": 0,
+   "text_outside_units_sample": "",
+   "units": 36,
+   "units_differing": []
   }
  },
  "law_dates": {
   "act-1994-7": {
-   "commenced": "1993-06-21",
+   "commenced": null,
    "dated": [
     "1994-07-11"
    ]
@@ -245,10 +351,33 @@
     "2017-04-19"
    ]
   },
+  "act-2018-6": {
+   "commenced": null,
+   "dated": []
+  },
   "act-2018-8": {
    "commenced": null,
    "dated": [
     "2018-08-23"
+   ]
+  },
+  "act-2021-24": {
+   "commenced": null,
+   "dated": [
+    "2021-07-01"
+   ]
+  },
+  "act-2021-45": {
+   "commenced": null,
+   "dated": [
+    "2022-06-01",
+    "2022-11-01"
+   ]
+  },
+  "act-2021-60": {
+   "commenced": null,
+   "dated": [
+    "2021-12-20"
    ]
   },
   "act-2022-13": {
@@ -263,6 +392,12 @@
     "2025-03-31"
    ]
   },
+  "act-2024-2": {
+   "commenced": null,
+   "dated": [
+    "2024-04-29"
+   ]
+  },
   "act-2025-6": {
    "commenced": null,
    "dated": [
@@ -272,6 +407,12 @@
   "si-1993-38": {
    "commenced": null,
    "dated": []
+  },
+  "si-2019-9": {
+   "commenced": null,
+   "dated": [
+    "2019-03-04"
+   ]
   }
  }
 }

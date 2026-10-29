@@ -157,6 +157,16 @@
    "via": "wayback"
   }
  },
+ "check": {
+  "acts": 2,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 18
+ },
  "fidelity": {
   "civil-status@2015-12-31": {
    "text_outside_units_chars": 0,

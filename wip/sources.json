@@ -69,12 +69,6 @@
      "url": "https://web.archive.org/web/20250316004033id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2018-08-23",
      "sha256": "afc91ca6aca285fc9c8b70a25333c094608a5014ca08aeff5cdb4d64773a1621"
     },
-    "2020-06-01": {
-     "capture": "20250810101847",
-     "original": "https://seylii.org/akn/sc/act/si/1993/38/eng@2020-06-01",
-     "url": "https://web.archive.org/web/20250810101847id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2020-06-01",
-     "sha256": "8634b91cf6f278bd9cd9e5385139575f9f8880b839e6f53eb06aa664932fb3bf"
-    },
     "2022-06-20": {
      "capture": "20250813222515",
      "original": "https://seylii.org/akn/sc/act/si/1993/38/eng@2022-06-20",
@@ -93,27 +87,191 @@
      "url": "https://web.archive.org/web/20260218091524id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2025-07-04",
      "sha256": "87163e28ad32678af5d30d6ab33ddca583d233da4364857b4bbcb8223bdc043e"
     }
-   }
+   },
+   "skipped": [
+    "2020-06-01"
+   ]
+  },
+  "1883/4": {
+   "expressions": {
+    "2015-12-31": {
+     "capture": "20250519203837",
+     "original": "https://seylii.org/akn/sc/act/1883/4/eng@2015-12-31",
+     "url": "https://web.archive.org/web/20250519203837id_/https://seylii.org/akn/sc/act/1883/4/eng@2015-12-31",
+     "sha256": "0bb95e4be541e4c3d9f4bd09b1fed1af236846612a0ccd2cdc8420899df9855c"
+    },
+    "2021-07-01": {
+     "capture": "20250913114419",
+     "original": "https://seylii.org/akn/sc/act/1883/4/eng@2021-07-01",
+     "url": "https://web.archive.org/web/20250913114419id_/https://seylii.org/akn/sc/act/1883/4/eng@2021-07-01",
+     "sha256": "965c1860216b22ced969f4bd245383eaf67e2891b22a58a7fcea441b1eafd566"
+    },
+    "2022-06-01": {
+     "capture": "20250802225312",
+     "original": "https://seylii.org/akn/sc/act/1883/4/eng@2022-06-01",
+     "url": "https://web.archive.org/web/20250802225312id_/https://seylii.org/akn/sc/act/1883/4/eng@2022-06-01",
+     "sha256": "e7b60c3f1541edbc09293155021aafa509f41dc5aabcb2fb90716d56962f93e5"
+    },
+    "2022-11-01": {
+     "capture": "20250803082419",
+     "original": "https://seylii.org/akn/sc/act/1883/4/eng@2022-11-01",
+     "url": "https://web.archive.org/web/20250803082419id_/https://seylii.org/akn/sc/act/1883/4/eng@2022-11-01",
+     "sha256": "d1297837125893aaaa56aa5cbd162e4566a1b1f7d1720d9cfdcf82e839b35b6e"
+    }
+   },
+   "skipped": []
+  },
+  "2010/23": {
+   "expressions": {
+    "2017-07-05": {
+     "capture": "20250326140130",
+     "original": "https://seylii.org/akn/sc/act/2010/23/eng@2017-07-05",
+     "url": "https://web.archive.org/web/20250326140130id_/https://seylii.org/akn/sc/act/2010/23/eng@2017-07-05",
+     "sha256": "9fba41e44b16b19a7dace4cebc9dcec12ffb19d1b06c88dd0ebb3e7cff6b4150"
+    },
+    "2019-03-04": {
+     "capture": "20250815030504",
+     "original": "https://seylii.org/akn/sc/act/2010/23/eng@2019-03-04",
+     "url": "https://web.archive.org/web/20250815030504id_/https://seylii.org/akn/sc/act/2010/23/eng@2019-03-04",
+     "sha256": "62c3e7573817790bd7073a0aad8108f340e31b2d6ebcf1fd5ed33fee2fe4f112"
+    },
+    "2021-12-20": {
+     "capture": "20251022161101",
+     "original": "https://seylii.org/akn/sc/act/2010/23/eng@2021-12-20",
+     "url": "https://web.archive.org/web/20251022161101id_/https://seylii.org/akn/sc/act/2010/23/eng@2021-12-20",
+     "sha256": "75fc13d856755e40a0f82f287d9dd9922826cdbf7010c1cfa47b1114dde02580"
+    },
+    "2024-04-29": {
+     "capture": "20250914232449",
+     "original": "https://seylii.org/akn/sc/act/2010/23/eng@2024-04-29",
+     "url": "https://web.archive.org/web/20250914232449id_/https://seylii.org/akn/sc/act/2010/23/eng@2024-04-29",
+     "sha256": "b35260eec650efffac2010aa4e3c5aaa8ce4e4ce87422c78e2fc5c66943c6b7f"
+    }
+   },
+   "skipped": []
   }
  },
  "laws": {
   "/akn/sc/act/1994/7": {
-   "expression": "2020-06-01",
-   "capture": "20240321143030",
-   "url": "https://web.archive.org/web/20240321143030id_/https://seylii.org/akn/sc/act/1994/7/eng@2020-06-01",
-   "sha256": "c5fce14d03a9ff08868b91a0bea213e306743645e4e09d3bde06aef77c5cca6a"
+   "expression": "1994-07-11",
+   "capture": "20251206163505",
+   "url": "https://web.archive.org/web/20251206163505id_/https://seylii.org/akn/sc/act/1994/7/eng@1994-07-11",
+   "sha256": "497bd8451a724ddc6dd165105ddd8b70731546dff9dec44b21470c31a85c41e7",
+   "title_checked": "Constitution of the Republic of Seychelles (First Amendment) Act, 1994"
   },
-  "/akn/sc/act/1995/19": null,
-  "/akn/sc/act/1995/5": null,
-  "/akn/sc/act/1996/14": null,
-  "/akn/sc/act/2000/7": null,
-  "/akn/sc/act/2011/7": null,
-  "/akn/sc/act/2016/4": null,
-  "/akn/sc/act/2017/5": null,
-  "/akn/sc/act/2018/8": null,
-  "/akn/sc/act/2022/13": null,
-  "/akn/sc/act/2024/14": null,
-  "/akn/sc/act/2025/6": null
+  "/akn/sc/act/1995/19": {
+   "expression": "1995-11-20",
+   "capture": "20250315232609",
+   "url": "https://web.archive.org/web/20250315232609id_/https://seylii.org/akn/sc/act/1995/19/eng@1995-11-20",
+   "sha256": "619ffcde4d2d43d15b0b72f42fd0b47f4e53a94060a5a211539ca9678a17e225",
+   "title_checked": "Constitution of the Republic of Seychelles (Third Amendment) Act, 1995"
+  },
+  "/akn/sc/act/1995/5": {
+   "expression": "1995-03-27",
+   "capture": "20250315234525",
+   "url": "https://web.archive.org/web/20250315234525id_/https://seylii.org/akn/sc/act/1995/5/eng@1995-03-27",
+   "sha256": "ed2cc656901b0a2b6e5dd7ce6361b2cccf4a70baf73b1e03ef4b572812d4738e",
+   "title_checked": "Constitution of the Republic of Seychelles (Second Amendment) Act, 1995"
+  },
+  "/akn/sc/act/1996/14": {
+   "expression": "1996-08-05",
+   "capture": "20250315230043",
+   "url": "https://web.archive.org/web/20250315230043id_/https://seylii.org/akn/sc/act/1996/14/eng@1996-08-05",
+   "sha256": "56ff9515e7bc19eecdd405b8bbf497278d5a7f8bd79ff4c67c35c83355f02d98",
+   "title_checked": "Constitution of the Republic of Seychelles (Fourth Amendment) Act, 1996"
+  },
+  "/akn/sc/act/2000/7": {
+   "expression": "2000-06-06",
+   "capture": "20250316004219",
+   "url": "https://web.archive.org/web/20250316004219id_/https://seylii.org/akn/sc/act/2000/7/eng@2000-06-06",
+   "sha256": "beb7a35c5282b6aa1806663920b466b67bb2406b9a159c7937ed001f279bbddc",
+   "title_checked": "Constitution of the Republic of Seychelles (Fifth Amendment) Act, 2000"
+  },
+  "/akn/sc/act/2011/7": {
+   "expression": "2011-07-12",
+   "capture": "20250316001527",
+   "url": "https://web.archive.org/web/20250316001527id_/https://seylii.org/akn/sc/act/2011/7/eng@2011-07-12",
+   "sha256": "875b863d025c3b0f8ddaea6ea96fb9bc93c30e3a422f3dbe4e027ee40f13d995",
+   "title_checked": "Constitution of the Republic of Seychelles (Sixth Amendment) Act, 2011"
+  },
+  "/akn/sc/act/2016/4": {
+   "expression": "2016-04-20",
+   "capture": "20251219042207",
+   "url": "https://web.archive.org/web/20251219042207id_/https://seylii.org/akn/sc/act/2016/4/eng@2016-04-20",
+   "sha256": "0fcdf77c5cda53a19c782b587b1935d8d634d787291f679c7436d70477448cd1",
+   "title_checked": "Constitution of the Republic of Seychelles (Seventh Amendment) Act, 2016"
+  },
+  "/akn/sc/act/2017/5": {
+   "expression": "2017-04-19",
+   "capture": "20250315232125",
+   "url": "https://web.archive.org/web/20250315232125id_/https://seylii.org/akn/sc/act/2017/5/eng@2017-04-19",
+   "sha256": "5a3bd6d999fb18f2e56c2919ece6dcfc3eff3761ec29fde98ad2087837865ecb",
+   "title_checked": "Constitution of the Republic of Seychelles (Eighth Amendment) Act, 2017"
+  },
+  "/akn/sc/act/2018/6": {
+   "expression": "2018-08-14",
+   "capture": "20240929083408",
+   "url": "https://web.archive.org/web/20240929083408id_/https://seylii.org/akn/sc/act/2018/6/eng@2018-08-14",
+   "sha256": "2be3631f6db336516742dac16b38936f44d81389253707a4c5da4b19bb6ee74a",
+   "title_checked": "Civil Status (Amendment) Act, 2018"
+  },
+  "/akn/sc/act/2018/8": {
+   "expression": "2018-08-23",
+   "capture": "20250316002745",
+   "url": "https://web.archive.org/web/20250316002745id_/https://seylii.org/akn/sc/act/2018/8/eng@2018-08-23",
+   "sha256": "88399b02c403b96975ef353e70dfc98d67343f076be0bbb97650236b6a490c00",
+   "title_checked": "Constitution of the Republic of Seychelles (Ninth Amendment) Act, 2018"
+  },
+  "/akn/sc/act/2021/24": {
+   "expression": "2021-06-28",
+   "capture": "20251216181943",
+   "url": "https://web.archive.org/web/20251216181943id_/https://seylii.org/akn/sc/act/2021/24/eng@2021-06-28",
+   "sha256": "15cf0ed10c9c8c769c54cbea5eb23de4edb3de19239dfe0dc4b631c2e9301183",
+   "title_checked": "Civil Code of Seychelles (Consequence of Enactment) Act, 2021"
+  },
+  "/akn/sc/act/2021/45": {
+   "expression": "2021-11-08",
+   "capture": "20251209133748",
+   "url": "https://web.archive.org/web/20251209133748id_/https://seylii.org/akn/sc/act/2021/45/eng@2021-11-08",
+   "sha256": "54a0affc5127acea5b95032d7cf0495947699e73763bc9364f0a3ff9f0cb5820",
+   "title_checked": "Civil Status (Amendment) Act, 2021"
+  },
+  "/akn/sc/act/2021/60": {
+   "expression": "2021-12-20",
+   "capture": "20251217035602",
+   "url": "https://web.archive.org/web/20251217035602id_/https://seylii.org/akn/sc/act/2021/60/eng@2021-12-20",
+   "sha256": "d87ca6c059242c9faa22c06fca20aed79b95f1cccb78817db9f79afa90537e20",
+   "title_checked": "Licences (Amendment) Act, 2021"
+  },
+  "/akn/sc/act/2022/13": {
+   "expression": "2022-06-20",
+   "capture": "20260120091624",
+   "url": "https://web.archive.org/web/20260120091624id_/https://seylii.org/akn/sc/act/2022/13/eng@2022-06-20",
+   "sha256": "0326af0ca468eb2ca5e49f8bfc4ed5bc79bc2488995d2a6452dd72756cbf0b0e",
+   "title_checked": "Constitution of the Republic of Seychelles (Tenth Amendment) Act, 2022"
+  },
+  "/akn/sc/act/2024/14": {
+   "expression": "2024-10-28",
+   "capture": "20251231141958",
+   "url": "https://web.archive.org/web/20251231141958id_/https://seylii.org/akn/sc/act/2024/14/eng@2024-10-28",
+   "sha256": "cd3da09525cf41d7aa307ca60274fd9a0efbd0f0475f9833684f063449704d41",
+   "title_checked": "Constitution of the Republic of Seychelles (Eleventh Amendment) Act, 2024"
+  },
+  "/akn/sc/act/2024/2": {
+   "expression": "2024-04-29",
+   "capture": "20251021144430",
+   "url": "https://web.archive.org/web/20251021144430id_/https://seylii.org/akn/sc/act/2024/2/eng@2024-04-29",
+   "sha256": "00b9d45d437bbf3ac9391a8bd50f4e2e9f3734820dddfbebee4639d8eefa1276",
+   "title_checked": "Licences (Amendment) Act, 2024"
+  },
+  "/akn/sc/act/2025/6": null,
+  "/akn/sc/act/si/2019/9": {
+   "expression": "2019-03-04",
+   "capture": "20251021164628",
+   "url": "https://web.archive.org/web/20251021164628id_/https://seylii.org/akn/sc/act/si/2019/9/eng@2019-03-04",
+   "sha256": "13d4df69334cc00061d5a337cd35db1b5d234c2314657f565cba9882a7de6b8e",
+   "title_checked": "Licences (Amendment of Schedule) Regulations, 2019"
+  }
  },
  "listings": {},
  "retrieved": "2026-10-28"

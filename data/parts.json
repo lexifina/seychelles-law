@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "60-evidence.json": {
+   "acts": [
+    "evidence"
+   ],
+   "sha256": "81ecc54354303a36a3d3021cec80762dda2af9f2343c9c9eb49ee4eced6044f5"
+  },
+  "61-civil-code-1976.json": {
+   "acts": [
+    "civil-code-1976"
+   ],
+   "sha256": "a32122003b673c043a147099c54b7a4304a7a59617ce2fe30d59ee4ea59bb693"
+  },
+  "62-commercial-code.json": {
+   "acts": [
+    "commercial-code"
+   ],
+   "sha256": "3eb238417f53a16d1207d682bbd2e8c387256329c156b30a55f95c3b1e6c9d7c"
+  }
+ },
+ "schema": 1
+}

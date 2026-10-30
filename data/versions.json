@@ -1,0 +1,183 @@
+{
+ "country": "SC",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of Seychelles",
+   "url": "https://seylii.org/akn/sc/act/si/1993/38",
+   "versions": [
+    {
+     "from": "1993-06-21",
+     "units": 178,
+     "source_url": "https://web.archive.org/web/20250916200003id_/https://seylii.org/akn/sc/act/si/1993/38/eng@1993-06-21",
+     "sha256": "c65f26606458245344d1c2d0e999ed4b2ec1ae1d1d6ac10b1cdb88504cd35c48"
+    },
+    {
+     "from": "1994-07-11",
+     "units": 178,
+     "source_url": "https://web.archive.org/web/20250316000138id_/https://seylii.org/akn/sc/act/si/1993/38/eng@1994-07-11",
+     "sha256": "26ee44948664f5bcac8a4dc6d2c99bfcb6875fd6b25e28b23b36c4ccac374e00"
+    },
+    {
+     "from": "1995-03-27",
+     "units": 178,
+     "source_url": "https://web.archive.org/web/20250316003851id_/https://seylii.org/akn/sc/act/si/1993/38/eng@1995-03-27",
+     "sha256": "ff7bda4cc3092129c64f6b764cf9187c74fdc7cdb3a9e6ed68eb8fc0c91b810e"
+    },
+    {
+     "from": "1995-11-20",
+     "units": 179,
+     "source_url": "https://web.archive.org/web/20250316001453id_/https://seylii.org/akn/sc/act/si/1993/38/eng@1995-11-20",
+     "sha256": "d397cdd68825f12e192ec6b379d5562cebafcb2ef62bdd2667eefad68f72b265"
+    },
+    {
+     "from": "1996-08-14",
+     "units": 180,
+     "source_url": "https://web.archive.org/web/20250317235458id_/https://seylii.org/akn/sc/act/si/1993/38/eng@1996-08-14",
+     "sha256": "86c4b2da8e66de3e5ec33bf348f8b0ea7d0fe0bccbd8ab436df81acf080f5198"
+    },
+    {
+     "from": "1998-02-21",
+     "units": 180,
+     "source_url": "https://web.archive.org/web/20250318010651id_/https://seylii.org/akn/sc/act/si/1993/38/eng@1998-02-21",
+     "sha256": "2b6126ccd5c613221d18300d109953abf8a8c6944daac42095a4ed057ff0ce5e"
+    },
+    {
+     "from": "2000-06-26",
+     "units": 181,
+     "source_url": "https://web.archive.org/web/20250316003253id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2000-06-26",
+     "sha256": "2c53cbf2b17fc90d52dfb11b15c52172b3dcc26226ad536bcf29fa3013ed4228"
+    },
+    {
+     "from": "2011-07-12",
+     "units": 184,
+     "source_url": "https://web.archive.org/web/20250315235556id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2011-07-12",
+     "sha256": "045e537bbe4a853918823aa7a4f57586e30ede4793e276a55fb0d3bc73958d81"
+    },
+    {
+     "from": "2016-10-16",
+     "units": 184,
+     "source_url": "https://web.archive.org/web/20250315231352id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2016-10-16",
+     "sha256": "f345cc2803430cfd38198f991913c80944f3f4094f63c8ae47f82a2920f79ae6"
+    },
+    {
+     "from": "2017-04-19",
+     "units": 185,
+     "source_url": "https://web.archive.org/web/20250916190635id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2017-04-19",
+     "sha256": "0fb4f740ea97162fb73d692b861c21729dc929837c0d982de6d00cddcdd659df"
+    },
+    {
+     "from": "2018-08-23",
+     "units": 185,
+     "source_url": "https://web.archive.org/web/20250316004033id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2018-08-23",
+     "sha256": "afc91ca6aca285fc9c8b70a25333c094608a5014ca08aeff5cdb4d64773a1621"
+    },
+    {
+     "from": "2022-06-20",
+     "units": 185,
+     "source_url": "https://web.archive.org/web/20250813222515id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2022-06-20",
+     "sha256": "ba242822b911d69af855197a875b03730059fa8a75f95053994ee267f205b4da"
+    },
+    {
+     "from": "2025-03-31",
+     "units": 185,
+     "source_url": "https://web.archive.org/web/20251030122734id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2025-03-31",
+     "sha256": "c16ab3097c2ccb461e642caf847cedfec635d105f19c7aaf88856af9c18ed459"
+    },
+    {
+     "from": "2025-07-04",
+     "units": 185,
+     "source_url": "https://web.archive.org/web/20260218091524id_/https://seylii.org/akn/sc/act/si/1993/38/eng@2025-07-04",
+     "sha256": "87163e28ad32678af5d30d6ab33ddca583d233da4364857b4bbcb8223bdc043e"
+    }
+   ]
+  },
+  {
+   "slug": "civil-status",
+   "short": "Civil Status Act",
+   "title": "Civil Status Act",
+   "url": "https://seylii.org/akn/sc/act/1883/4",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 167,
+     "source_url": "https://web.archive.org/web/20250519203837id_/https://seylii.org/akn/sc/act/1883/4/eng@2015-12-31",
+     "sha256": "0bb95e4be541e4c3d9f4bd09b1fed1af236846612a0ccd2cdc8420899df9855c"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 167,
+     "source_url": "https://web.archive.org/web/20250913114419id_/https://seylii.org/akn/sc/act/1883/4/eng@2021-07-01",
+     "sha256": "965c1860216b22ced969f4bd245383eaf67e2891b22a58a7fcea441b1eafd566"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 172,
+     "source_url": "https://web.archive.org/web/20250802225312id_/https://seylii.org/akn/sc/act/1883/4/eng@2022-06-01",
+     "sha256": "e7b60c3f1541edbc09293155021aafa509f41dc5aabcb2fb90716d56962f93e5"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 172,
+     "source_url": "https://web.archive.org/web/20250803082419id_/https://seylii.org/akn/sc/act/1883/4/eng@2022-11-01",
+     "sha256": "d1297837125893aaaa56aa5cbd162e4566a1b1f7d1720d9cfdcf82e839b35b6e"
+    }
+   ]
+  },
+  {
+   "slug": "evidence",
+   "short": "Evidence Act",
+   "title": "Evidence Act",
+   "url": "https://seylii.org/akn/sc/act/1900/5",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20260124212253id_/https://seylii.org/akn/sc/act/1900/5/eng@2014-12-01",
+     "sha256": "97f659fed72b65454e665855a91b2a3c3577ec8c8a47eccfc06e6309803b1280"
+    }
+   ]
+  },
+  {
+   "slug": "civil-code-1976",
+   "short": "Civil Code (1976)",
+   "title": "Civil Code of Seychelles Act",
+   "url": "https://seylii.org/akn/sc/act/1976/13",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 2239,
+     "source_url": "https://web.archive.org/web/20250911003603id_/https://seylii.org/akn/sc/act/1976/13/eng@2015-12-31",
+     "sha256": "0b74dec625597fce3f6672a10974f536f039579817cd500324ff4318a90d35f8"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 0,
+     "source_url": "https://seylii.org/akn/sc/act/2021/1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "commercial-code",
+   "short": "Commercial Code",
+   "title": "Commercial Code Act",
+   "url": "https://seylii.org/akn/sc/act/1976/5",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 670,
+     "source_url": "https://web.archive.org/web/20250911004610id_/https://seylii.org/akn/sc/act/1976/5/eng@2014-12-01",
+     "sha256": "ade24d899b146efc8cbb737e32687097c3abd868d2f711f23c3e2884ed5168b5"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 669,
+     "source_url": "https://web.archive.org/web/20231031183456id_/https://www.gazette.sc/sites/default/files/2021-06/Act%2024%20-%20Civil%20Code%20of%20Seychelles%20%28Consequence%20of%20Enactment%29%20Act%202021.pdf",
+     "sha256": "d95a222b37e77056b5f099b1946042694a2a2c66080cdd126c1c0b5777848dbb"
+    }
+   ]
+  }
+ ]
+}

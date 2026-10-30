@@ -1,0 +1,56 @@
+{
+ "lii": "SeyLII",
+ "acts": {
+  "1900/5": {
+   "expressions": {
+    "2014-12-01": {
+     "capture": "20260124212253",
+     "original": "https://seylii.org/akn/sc/act/1900/5/eng@2014-12-01",
+     "url": "https://web.archive.org/web/20260124212253id_/https://seylii.org/akn/sc/act/1900/5/eng@2014-12-01",
+     "sha256": "97f659fed72b65454e665855a91b2a3c3577ec8c8a47eccfc06e6309803b1280"
+    }
+   },
+   "skipped": []
+  },
+  "1976/13": {
+   "expressions": {
+    "2015-12-31": {
+     "capture": "20250911003603",
+     "original": "https://seylii.org/akn/sc/act/1976/13/eng@2015-12-31",
+     "url": "https://web.archive.org/web/20250911003603id_/https://seylii.org/akn/sc/act/1976/13/eng@2015-12-31",
+     "sha256": "0b74dec625597fce3f6672a10974f536f039579817cd500324ff4318a90d35f8"
+    }
+   },
+   "skipped": []
+  },
+  "1976/5": {
+   "expressions": {
+    "2014-12-01": {
+     "capture": "20250911004610",
+     "original": "https://seylii.org/akn/sc/act/1976/5/eng@2014-12-01",
+     "url": "https://web.archive.org/web/20250911004610id_/https://seylii.org/akn/sc/act/1976/5/eng@2014-12-01",
+     "sha256": "ade24d899b146efc8cbb737e32687097c3abd868d2f711f23c3e2884ed5168b5"
+    }
+   },
+   "skipped": []
+  }
+ },
+ "laws": {
+  "/akn/sc/act/2021/1": {
+   "expression": "2021-01-04",
+   "capture": "20260213111215",
+   "url": "https://web.archive.org/web/20260213111215id_/https://seylii.org/akn/sc/act/2021/1/eng@2021-01-04",
+   "sha256": "ef8f766b80f8ec68b0ebe5b281f95bae4264a781d35fdc2c44089fe79246b123",
+   "title_checked": "Civil Code of Seychelles Act, 2020"
+  },
+  "/akn/sc/act/2021/24": {
+   "expression": "2021-06-28",
+   "capture": "20251216181943",
+   "url": "https://web.archive.org/web/20251216181943id_/https://seylii.org/akn/sc/act/2021/24/eng@2021-06-28",
+   "sha256": "15cf0ed10c9c8c769c54cbea5eb23de4edb3de19239dfe0dc4b631c2e9301183",
+   "title_checked": "Civil Code of Seychelles (Consequence of Enactment) Act, 2021"
+  }
+ },
+ "listings": {},
+ "retrieved": "2026-10-30"
+}

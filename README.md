@@ -59,6 +59,7 @@ Each change is credited to the amending Act SeyLII's History names (`Act 14 of 2
 - Every version is parsed from an archived copy of its own dated SeyLII page, whose sha256 is recorded in [`data/versions.json`](data/versions.json); every text of a version, except the headings and notes left out, is checked to be in a provision file.
 - The provisions inserted or substituted by the Constitution's last three amendments (Acts 13 of 2022, 14 of 2024 and 6 of 2025) and by the Civil Status (Amendment) Act, 2021 were compared with those Acts in the Supplement to the Official Gazette: the same word for word, two full stops and a Gazette misprint aside.
 - History is append-only: no merge commits, no commit dates that go backwards, and none after the build.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change is credited to the amending Act SeyLII's History names (`Act 14 of 2
 See [`LICENSE`](LICENSE). SeyLII licenses its content under CC BY-NC 4.0, crediting SeyLII as the source (its terms of use, section 9), so the texts may be used only for non-commercial purposes. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts and the configuration were written, and the acts chosen, by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 

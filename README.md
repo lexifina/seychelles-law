@@ -9,7 +9,7 @@ The law of Seychelles as a git history: one file per article or section, one com
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Seychelles' national law, which global-law reads at `seychelles/national/acts/`.
 
-**What is in it now:** the Constitution (14 versions, 1993 to 2025) and 4 older acts as SeyLII consolidated them (Civil Status Act, Commercial Code, Evidence Act, Civil Code of 1976); 157 Acts as enacted from the Official Gazette (2019 to 2026), among them the Civil Code of Seychelles Act, 2020 with all its articles; and 0 statutory instruments. [`STRUCTURE.md`](STRUCTURE.md) gives the layout and dating rules; [`REPRODUCE.md`](REPRODUCE.md) how it was built.
+**What is in it now:** the Constitution (14 versions, 1993 to 2025) and 4 older acts as SeyLII consolidated them (Civil Status Act, Commercial Code, Evidence Act, Civil Code of 1976); 161 Acts as enacted from the Official Gazette (2019 to 2026), among them the Civil Code of Seychelles Act, 2020 with all its articles; and 366 statutory instruments. [`STRUCTURE.md`](STRUCTURE.md) gives the layout and dating rules; [`REPRODUCE.md`](REPRODUCE.md) how it was built.
 
 Each act is a folder, one file per provision, plus a `README.md` listing its provisions and their changes (`constitution/art-081.md` is Article 81 of the Constitution, vacation of seats in the National Assembly; the Commercial Code's articles are in its First Schedule, `acts/1976/005-commercial-code/sch-01-art-001.md`).
 
@@ -55,10 +55,10 @@ Each change is credited to the amending Act SeyLII's History names (`Act 14 of 2
 
 ## How it is checked
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: 23 versions of 5 acts, 0 mismatches, and no commit whose trailers git cannot parse (see [`REPRODUCE.md`](REPRODUCE.md)).
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus: the 23 SeyLII versions of 5 acts (paths as before the move to acts/<year>/), 0 mismatches, and no commit whose trailers git cannot parse (see [`REPRODUCE.md`](REPRODUCE.md)).
 - Every version is parsed from an archived copy of its own dated SeyLII page, whose sha256 is recorded in [`data/versions.json`](data/versions.json); every text of a version, except the headings and notes left out, is checked to be in a provision file.
 - The provisions inserted or substituted by the Constitution's last three amendments (Acts 13 of 2022, 14 of 2024 and 6 of 2025) and by the Civil Status (Amendment) Act, 2021 were compared with those Acts in the Supplement to the Official Gazette: the same word for word, two full stops and a Gazette misprint aside.
-- History is append-only: no merge commits, no commit dates that go backwards, and none after the build.
+- History is append-only: no merge commits and no rewritten commits. The Official Gazette instruments were appended after the SeyLII build, so their commit dates (each its in-force day) go back in time from that point; within the Gazette run they are in date order.
 - [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show

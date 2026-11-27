@@ -19,10 +19,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
 | `constitution` | Constitution of the Republic of Seychelles | 14 | 1993-06-21 to 2025-07-04 |
-| `civil-status` | Civil Status Act | 4 | 2015-12-31 to 2022-11-01 |
-| `evidence` | Evidence Act | 1 | 2014-12-01 to 2014-12-01 |
-| `civil-code-1976` | Civil Code of Seychelles Act | 2 | 2015-12-31 to 2021-07-01 |
-| `commercial-code` | Commercial Code Act | 2 | 2014-12-01 to 2021-07-01 |
+| `acts/1883/004-civil-status` | Civil Status Act | 4 | 2015-12-31 to 2022-11-01 |
+| `acts/1900/005-evidence` | Evidence Act | 1 | 2014-12-01 to 2014-12-01 |
+| `acts/1976/013-civil-code-of-seychelles` | Civil Code of Seychelles Act | 2 | 2015-12-31 to 2021-07-01 |
+| `acts/1976/005-commercial-code` | Commercial Code Act | 2 | 2014-12-01 to 2021-07-01 |
 
 The build made 23 commits:
 
@@ -91,3 +91,7 @@ Model use at data-build time:
 - Evidence Act: none at data-build time (deterministic parser).
 - Civil Code (1976): none at data-build time (deterministic parser).
 - Commercial Code: none at data-build time (deterministic parser).
+
+## Official Gazette build (2026-11-27)
+
+Folders were moved into acts/<year>/<NNN>-<slug>/ by one pure-rename commit. The Acts and statutory instruments of 2020 onwards are then added by the runner in `scripts/seychelles-law/runner/` (sc_fetch.py: the gazette.sc lists `/v/act/<year>` and `/v/si/<year>` and their PDFs, one request at a time; sc_parse.py: the PDF text layer split into sections, marginal notes as headings, Part headings left out; sc_build.py: one commit per instrument on its in-force day, rules in STRUCTURE.md). Each commit records the PDF's URL and sha256. No OCR is run.

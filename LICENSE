@@ -13,6 +13,12 @@ Attribution:
 The texts may be used only for non-commercial purposes. This repository is private; whether and how it
 may be published is the owner's decision under these terms.
 
+The Acts and statutory instruments filed from 2020 onwards (acts/2020/ to acts/2026/, subsidiary/) come
+from the Official Gazette of Seychelles, https://www.gazette.sc, the Government's publication of the
+Supplement to the Official Gazette: official legislative texts of the Republic of Seychelles, taken
+from the text layer of each published PDF. The site states no licence of its own; the texts are
+reproduced as official law, with the source of each in its commit and folder README.
+
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per
 line; spacing, quotes and dashes were normalised; editorial notes, Part and Chapter headings were left out;
 and the versions were arranged as git commits credited to the laws SeyLII names for each change.

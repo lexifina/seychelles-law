@@ -9,9 +9,9 @@ The law of Seychelles as a git history: one file per article or section, one com
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Seychelles' national law, which global-law reads at `seychelles/national/acts/`.
 
-**What is in it now:** 5 acts from SeyLII, with 23 versions from 1993 to 2025: the Constitution of the Republic of Seychelles (14 versions, 1993 to 2025), the Civil Status Act (4), the Commercial Code Act (2), the Evidence Act (1) and the Civil Code of Seychelles Act of 1976 (2: its 2015 text, and its repeal on 1 July 2021). [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists every law the history names, with its dates.
+**What is in it now:** the Constitution (14 versions, 1993 to 2025) and 4 older acts as SeyLII consolidated them (Civil Status Act, Commercial Code, Evidence Act, Civil Code of 1976); 157 Acts as enacted from the Official Gazette (2019 to 2026), among them the Civil Code of Seychelles Act, 2020 with all its articles; and 0 statutory instruments. [`STRUCTURE.md`](STRUCTURE.md) gives the layout and dating rules; [`REPRODUCE.md`](REPRODUCE.md) how it was built.
 
-Each act is a folder, one file per provision, plus a `README.md` listing its provisions and their changes (`constitution/art-081.md` is Article 81 of the Constitution, vacation of seats in the National Assembly; the Commercial Code's articles are in its First Schedule, `commercial-code/sch-01-art-001.md`).
+Each act is a folder, one file per provision, plus a `README.md` listing its provisions and their changes (`constitution/art-081.md` is Article 81 of the Constitution, vacation of seats in the National Assembly; the Commercial Code's articles are in its First Schedule, `acts/1976/005-commercial-code/sch-01-art-001.md`).
 
 The text is in English, as SeyLII publishes it; its editorial notes (kept only where a provision has no other text) and the Part and Chapter headings are left out.
 
@@ -63,7 +63,7 @@ Each change is credited to the amending Act SeyLII's History names (`Act 14 of 2
 
 ## What it does not show
 
-- **Most Seychellois law.** Only these 5 acts are here; there is no subsidiary legislation, case law or bill. The Civil Code of Seychelles Act, 2020 (Act 1 of 2021), which replaced the 1976 Code on 1 July 2021, is not here yet; the Licences Act, 2010 is held back until its text is verified against its 2024 amendment as gazetted.
+- **Most Seychellois law before 2020, consolidated.** The Gazette site carries Acts and S.I.s from 2020 only, each as enacted: an amending Act is its own folder, not applied to the act it amends. Consolidated texts of the Penal Code, Criminal Procedure Code, Employment Act and Companies Act are not available from an official source we can read (SeyLII is out of reach). Acts awaiting a commencement notice, scanned PDFs (no OCR is run) and Acts the parser could not split cleanly are held back.
 - **Earlier history, and gaps.** Changes before an act's oldest SeyLII version are folded into it, and a change between two SeyLII versions arrives with the later one. SeyLII has no Civil Status Act version between 2015 and 2021, so the Civil Status (Amendment) Act, 2018 arrives on 1 July 2021.
 - **The Constitution's 2020 consolidation.** SeyLII's 2020 text rewords 97 articles and is not the base of its next version, so the 2022 version follows the 2018 one directly.
 - **Amendments SeyLII has not applied to its text**, except the Commercial Code's 2021 amendments (Act 24 of 2021), applied here from the Act as printed in the Supplement to the Official Gazette.
@@ -75,11 +75,11 @@ Each change is credited to the amending Act SeyLII's History names (`Act 14 of 2
 | --- | --- | --- | --- |
 | [SeyLII](https://seylii.org) (Seychelles Legal Information Institute; Laws.Africa) | Consolidated legislation | yes, dated point-in-time versions | The text and date of every version, its amendment history, and the editorial notes used for credits |
 | [Internet Archive](https://web.archive.org/) | Archived copies of SeyLII's pages | as captured | Each version is read from the copy of its own dated page |
-| [Official Gazette](https://www.gazette.sc) (Supplement) | Acts as enacted | as published | The text of Act 24 of 2021 for the Commercial Code, and the Gazette checks above |
+| [Official Gazette](https://www.gazette.sc) (Supplement) | Acts and statutory instruments as enacted or made, 2020 onwards | as published | The text layer of each PDF, its publication day and its commencement notice; also the text of Act 24 of 2021 for the Commercial Code, and the Gazette checks above |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). SeyLII licenses its content under CC BY-NC 4.0, crediting SeyLII as the source (its terms of use, section 9), so the texts may be used only for non-commercial purposes. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
+See [`LICENSE`](LICENSE). SeyLII licenses its content under CC BY-NC 4.0, crediting SeyLII as the source (its terms of use, section 9), so the texts may be used only for non-commercial purposes. The Acts and statutory instruments under `acts/<year>/` and `subsidiary/` from 2020 onwards are official texts of the Republic of Seychelles as published in the Official Gazette of Seychelles. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts and the configuration were written, and the acts chosen, by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 

@@ -1,0 +1,27 @@
+{
+  "corpus": "sc/national/acts",
+  "name": "Seychelles law: the Constitution and acts as SeyLII consolidated them, and the Acts and statutory instruments of Seychelles as published in the Official Gazette (2020 onwards)",
+  "label": "Seychelles",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Kind",
+      "Published"
+    ],
+    "time": "12:00 Indian/Mahe (UTC+4)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the law that made the version: \"Act N of YYYY\" or \"S.I. N of YYYY\"; SeyLII for the oldest archived consolidations",
+  "citation": {
+    "file": "((?:acts|subsidiary)/[0-9]{4}/[^/]+|constitution)/(?:s|art)-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?|article|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://www.gazette.sc",
+    "https://seylii.org"
+  ]
+}

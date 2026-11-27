@@ -9,7 +9,7 @@ The law of Seychelles as a git history: one file per article or section, one com
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Seychelles' national law, which global-law reads at `seychelles/national/acts/`.
 
-**What is in it now:** the Constitution (14 versions, 1993 to 2025) and 4 older acts as SeyLII consolidated them (Civil Status Act, Commercial Code, Evidence Act, Civil Code of 1976); 161 Acts as enacted from the Official Gazette (2019 to 2026), among them the Civil Code of Seychelles Act, 2020 with all its articles; and 366 statutory instruments. [`STRUCTURE.md`](STRUCTURE.md) gives the layout and dating rules; [`REPRODUCE.md`](REPRODUCE.md) how it was built.
+**What is in it now:** the Constitution (14 versions, 1993 to 2025) and 4 older acts as SeyLII consolidated them (Civil Status Act, Commercial Code, Evidence Act, Civil Code of 1976); 165 Acts as enacted from the Official Gazette (2014 to 2026), among them the Civil Code of Seychelles Act, 2020 with all its articles; 462 statutory instruments; and the Penal Code (Cap. 158, as consolidated to 1 December 2014) and the Companies Ordinance, 1972 (Cap. 40, as consolidated to 30 June 2014) from the Laws of Seychelles copies on WIPO Lex. [`STRUCTURE.md`](STRUCTURE.md) gives the layout and dating rules; [`REPRODUCE.md`](REPRODUCE.md) how it was built.
 
 Each act is a folder, one file per provision, plus a `README.md` listing its provisions and their changes (`constitution/art-081.md` is Article 81 of the Constitution, vacation of seats in the National Assembly; the Commercial Code's articles are in its First Schedule, `acts/1976/005-commercial-code/sch-01-art-001.md`).
 
@@ -76,6 +76,7 @@ Each change is credited to the amending Act SeyLII's History names (`Act 14 of 2
 | [SeyLII](https://seylii.org) (Seychelles Legal Information Institute; Laws.Africa) | Consolidated legislation | yes, dated point-in-time versions | The text and date of every version, its amendment history, and the editorial notes used for credits |
 | [Internet Archive](https://web.archive.org/) | Archived copies of SeyLII's pages | as captured | Each version is read from the copy of its own dated page |
 | [Official Gazette](https://www.gazette.sc) (Supplement) | Acts and statutory instruments as enacted or made, 2020 onwards | as published | The text layer of each PDF, its publication day and its commencement notice; also the text of Act 24 of 2021 for the Commercial Code, and the Gazette checks above |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/SC) | Laws of Seychelles consolidations (secondary copy) | one consolidation each | The Penal Code (Cap. 158, to 1 December 2014) and the Companies Ordinance (Cap. 40, to 30 June 2014), PDF text layer |
 
 ## Licence
 

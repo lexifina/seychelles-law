@@ -19,6 +19,11 @@ Supplement to the Official Gazette: official legislative texts of the Republic o
 from the text layer of each published PDF. The site states no licence of its own; the texts are
 reproduced as official law, with the source of each in its commit and folder README.
 
+The Penal Code (acts/1952/012-penal-code/) and the Companies Ordinance, 1972
+(acts/1972/cap-040-companies-ordinance/) are the Laws of Seychelles consolidations of 2014 as WIPO Lex
+(https://www.wipo.int/wipolex/) serves them free of charge: a secondary copy of official legislative
+texts of the Republic of Seychelles, each commit naming its WIPO Lex record.
+
 Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per
 line; spacing, quotes and dashes were normalised; editorial notes, Part and Chapter headings were left out;
 and the versions were arranged as git commits credited to the laws SeyLII names for each change.
